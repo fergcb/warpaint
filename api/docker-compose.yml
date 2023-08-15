@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    container_name: warpaint-api
+    image: warpaint-api
+    ports:
+      - "8080:8080"

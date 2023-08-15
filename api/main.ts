@@ -11,7 +11,7 @@ const server = new ApolloServer({
 
 // deno-lint-ignore no-explicit-any
 const { url } = await startStandaloneServer(server as any, {
-  listen: { port: 8000 },
+  listen: { port: 8080 },
 });
 
 console.log(`Server running on: ${url}`);

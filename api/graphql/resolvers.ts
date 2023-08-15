@@ -1,6 +1,6 @@
 // deno-lint-ignore-file no-explicit-any
-import paints from "../../data/paints.json" assert { type: "json" };
-import { Paint, hex2rgb, hsl2rgb, delta } from "../paint.ts";
+import paints from "../data/paints.json" assert { type: "json" };
+import { delta, hex2rgb, hsl2rgb, Paint } from "../paint.ts";
 
 interface SimilarColour {
   maxDistance: number;
@@ -45,16 +45,24 @@ function isSimilar(paint: Paint, query: SimilarColour): boolean {
 
   let targetRGB!: [number, number, number];
   if ("rgb" in target) {
-    if (target.rgb.length !== 3) throw Error("RGB array should have exactly three values.");
+    if (target.rgb.length !== 3) {
+      throw Error("RGB array should have exactly three values.");
+    }
     targetRGB = target.rgb as [number, number, number];
   } else if ("hsl" in target) {
-    if (target.hsl.length !== 3) throw Error("HSL array should have exactly three values.");
+    if (target.hsl.length !== 3) {
+      throw Error("HSL array should have exactly three values.");
+    }
     targetRGB = hsl2rgb(target.hsl as [number, number, number]);
   } else if ("hex" in target) {
-    if (!/^#[a-fA-F0-9]{6}$/.test(target.hex)) throw Error("Hex value is malformed.");
+    if (!/^#[a-fA-F0-9]{6}$/.test(target.hex)) {
+      throw Error("Hex value is malformed.");
+    }
     targetRGB = hex2rgb(target.hex);
   } else {
-    throw Error("You must specify one of 'hex', 'rgb' or 'hsl' in the `similarTo.target` object.");
+    throw Error(
+      "You must specify one of 'hex', 'rgb' or 'hsl' in the `similarTo.target` object.",
+    );
   }
 
   const distance = delta(paint.rgb, targetRGB);
@@ -70,12 +78,12 @@ export const resolvers = {
         {},
         args.similarTo !== undefined
           ? {
-              distance: "asc",
-            }
+            distance: "asc",
+          }
           : {
-              name: "asc",
-            },
-        args.orderBy
+            name: "asc",
+          },
+        args.orderBy,
       );
 
       return paints
@@ -86,11 +94,17 @@ export const resolvers = {
             (args.range === undefined || eq(paint.range, args.range)) &&
             (args.type === undefined || eq(paint.type, args.type)) &&
             (args.metallic === undefined || paint.metallic === args.metallic) &&
-            (args.similarTo === undefined || isSimilar(paint as Paint, args.similarTo!))
+            (args.similarTo === undefined ||
+              isSimilar(paint as Paint, args.similarTo!)),
         )
         .slice(args.page * args.size, (args.page + 1) * args.size)
         .toSorted((a, b): number => {
-          for (const [key, order] of Object.entries(orderBy) as [keyof Paint, SortOrder][]) {
+          for (
+            const [key, order] of Object.entries(orderBy) as [
+              keyof Paint,
+              SortOrder,
+            ][]
+          ) {
             const d = order === "asc" ? 1 : -1;
             if (a[key]! > b[key]!) return d;
             else if (a[key]! < b[key]!) return -d;
