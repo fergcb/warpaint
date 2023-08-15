@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "rewrites": [
+      {
+        "source": "/api/v1",
+        "run": {
+          "serviceId": "warpaint-api",
+          "region": "europe-west2"
+        }
+      }
+    ]
+  }
+}
