@@ -1,0 +1,3584 @@
+[
+  {
+    "name": "Abaddon Black",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#000000",
+    "rgb": [ 0, 0, 0 ],
+    "hsl": [ 0, 0, 0 ]
+  },
+  {
+    "name": "Averland Sunset",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#fbba00",
+    "rgb": [ 251, 186, 0 ],
+    "hsl": [ 44, 100, 49 ]
+  },
+  {
+    "name": "Balthasar Gold",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#7a3e09",
+    "rgb": [ 122, 62, 9 ],
+    "hsl": [ 28, 86, 26 ]
+  },
+  {
+    "name": "Barak-Nar Burgundy",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#4e293b",
+    "rgb": [ 78, 41, 59 ],
+    "hsl": [ 331, 31, 23 ]
+  },
+  {
+    "name": "Bugman's Glow",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#8c5144",
+    "rgb": [ 140, 81, 68 ],
+    "hsl": [ 11, 35, 41 ]
+  },
+  {
+    "name": "Caledor Sky",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#3a679b",
+    "rgb": [ 58, 103, 155 ],
+    "hsl": [ 212, 46, 42 ]
+  },
+  {
+    "name": "Caliban Green",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#003b1e",
+    "rgb": [ 0, 59, 30 ],
+    "hsl": [ 151, 100, 12 ]
+  },
+  {
+    "name": "Castellan Green",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#3a4c21",
+    "rgb": [ 58, 76, 33 ],
+    "hsl": [ 85, 39, 21 ]
+  },
+  {
+    "name": "Catachan Fleshtone",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#4e3831",
+    "rgb": [ 78, 56, 49 ],
+    "hsl": [ 14, 23, 25 ]
+  },
+  {
+    "name": "Celestra Grey",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#9baeae",
+    "rgb": [ 155, 174, 174 ],
+    "hsl": [ 180, 10, 65 ]
+  },
+  {
+    "name": "Ceramite White",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Corax White",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#ececec",
+    "rgb": [ 236, 236, 236 ],
+    "hsl": [ 0, 0, 93 ]
+  },
+  {
+    "name": "Corvus Black",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#1d1d1b",
+    "rgb": [ 29, 29, 27 ],
+    "hsl": [ 60, 4, 11 ]
+  },
+  {
+    "name": "Daemonette Hide",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#746e8b",
+    "rgb": [ 116, 110, 139 ],
+    "hsl": [ 252, 12, 49 ]
+  },
+  {
+    "name": "Death Guard Green",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#737a51",
+    "rgb": [ 115, 122, 81 ],
+    "hsl": [ 70, 20, 40 ]
+  },
+  {
+    "name": "Death Korps Drab",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#4a4c40",
+    "rgb": [ 74, 76, 64 ],
+    "hsl": [ 70, 9, 27 ]
+  },
+  {
+    "name": "Deathworld Forest",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#686d2d",
+    "rgb": [ 104, 109, 45 ],
+    "hsl": [ 65, 42, 30 ]
+  },
+  {
+    "name": "Dryad Bark",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#3b352e",
+    "rgb": [ 59, 53, 46 ],
+    "hsl": [ 32, 12, 21 ]
+  },
+  {
+    "name": "Gal Vorbak Red",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#55323e",
+    "rgb": [ 85, 50, 62 ],
+    "hsl": [ 339, 26, 26 ]
+  },
+  {
+    "name": "Grey Knights Steel",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#93c5e2",
+    "rgb": [ 147, 197, 226 ],
+    "hsl": [ 202, 58, 73 ]
+  },
+  {
+    "name": "Grey Seer",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#c6c6c6",
+    "rgb": [ 198, 198, 198 ],
+    "hsl": [ 0, 0, 78 ]
+  },
+  {
+    "name": "Hobgrot Hide",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#a1812a",
+    "rgb": [ 161, 129, 42 ],
+    "hsl": [ 44, 59, 40 ]
+  },
+  {
+    "name": "Incubi Darkness",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#0e4445",
+    "rgb": [ 14, 68, 69 ],
+    "hsl": [ 181, 66, 16 ]
+  },
+  {
+    "name": "Ionrach Skin",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#ddccb9",
+    "rgb": [ 221, 204, 185 ],
+    "hsl": [ 32, 35, 80 ]
+  },
+  {
+    "name": "Iron Hands Steel",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#8e9295",
+    "rgb": [ 142, 146, 149 ],
+    "hsl": [ 206, 3, 57 ]
+  },
+  {
+    "name": "Iron Warriors",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#3c3432",
+    "rgb": [ 60, 52, 50 ],
+    "hsl": [ 12, 9, 22 ]
+  },
+  {
+    "name": "Jokaero Orange",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#e52d12",
+    "rgb": [ 229, 45, 18 ],
+    "hsl": [ 8, 85, 48 ]
+  },
+  {
+    "name": "Kantor Blue",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#0d244e",
+    "rgb": [ 13, 36, 78 ],
+    "hsl": [ 219, 71, 18 ]
+  },
+  {
+    "name": "Khorne Red",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#6b0e02",
+    "rgb": [ 107, 14, 2 ],
+    "hsl": [ 7, 96, 21 ]
+  },
+  {
+    "name": "Leadbelcher",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#455051",
+    "rgb": [ 69, 80, 81 ],
+    "hsl": [ 185, 8, 29 ]
+  },
+  {
+    "name": "Lupercal Green",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#022c2f",
+    "rgb": [ 2, 44, 47 ],
+    "hsl": [ 184, 92, 10 ]
+  },
+  {
+    "name": "Macragge Blue",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#193a79",
+    "rgb": [ 25, 58, 121 ],
+    "hsl": [ 219, 66, 29 ]
+  },
+  {
+    "name": "Mechanicus Standard Grey",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#454f50",
+    "rgb": [ 69, 79, 80 ],
+    "hsl": [ 185, 7, 29 ]
+  },
+  {
+    "name": "Mephiston Red",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#9b130b",
+    "rgb": [ 155, 19, 11 ],
+    "hsl": [ 3, 87, 33 ]
+  },
+  {
+    "name": "Morghast Bone",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#c9b483",
+    "rgb": [ 201, 180, 131 ],
+    "hsl": [ 42, 39, 65 ]
+  },
+  {
+    "name": "Mournfang Brown",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#681409",
+    "rgb": [ 104, 20, 9 ],
+    "hsl": [ 7, 84, 22 ]
+  },
+  {
+    "name": "Naggaroth Night",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#443655",
+    "rgb": [ 68, 54, 85 ],
+    "hsl": [ 267, 22, 27 ]
+  },
+  {
+    "name": "Night Lords Blue",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#043660",
+    "rgb": [ 4, 54, 96 ],
+    "hsl": [ 207, 92, 20 ]
+  },
+  {
+    "name": "Nocturne Green",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#1e322b",
+    "rgb": [ 30, 50, 43 ],
+    "hsl": [ 159, 25, 16 ]
+  },
+  {
+    "name": "Orruk Flesh",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#8cc276",
+    "rgb": [ 140, 194, 118 ],
+    "hsl": [ 103, 38, 61 ]
+  },
+  {
+    "name": "Phoenician Purple",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#471352",
+    "rgb": [ 71, 19, 82 ],
+    "hsl": [ 290, 62, 20 ]
+  },
+  {
+    "name": "Rakarth Flesh",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#aca394",
+    "rgb": [ 172, 163, 148 ],
+    "hsl": [ 37, 13, 63 ]
+  },
+  {
+    "name": "Ratskin Flesh",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#b36d48",
+    "rgb": [ 179, 109, 72 ],
+    "hsl": [ 21, 43, 49 ]
+  },
+  {
+    "name": "Retributor Armour",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#cb9320",
+    "rgb": [ 203, 147, 32 ],
+    "hsl": [ 40, 73, 46 ]
+  },
+  {
+    "name": "Rhinox Hide",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#4e3433",
+    "rgb": [ 78, 52, 51 ],
+    "hsl": [ 2, 21, 25 ]
+  },
+  {
+    "name": "Runelord Brass",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#4c3d2e",
+    "rgb": [ 76, 61, 46 ],
+    "hsl": [ 30, 25, 24 ]
+  },
+  {
+    "name": "Screamer Pink",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#821a41",
+    "rgb": [ 130, 26, 65 ],
+    "hsl": [ 338, 67, 31 ]
+  },
+  {
+    "name": "Screaming Bell",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#ae430a",
+    "rgb": [ 174, 67, 10 ],
+    "hsl": [ 21, 89, 36 ]
+  },
+  {
+    "name": "Steel Legion Drab",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#685733",
+    "rgb": [ 104, 87, 51 ],
+    "hsl": [ 41, 34, 30 ]
+  },
+  {
+    "name": "Stegadon Scale Green",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#014360",
+    "rgb": [ 1, 67, 96 ],
+    "hsl": [ 198, 98, 19 ]
+  },
+  {
+    "name": "The Fang",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#4a667b",
+    "rgb": [ 74, 102, 123 ],
+    "hsl": [ 206, 25, 39 ]
+  },
+  {
+    "name": "Thondia Brown",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#54302a",
+    "rgb": [ 84, 48, 42 ],
+    "hsl": [ 9, 33, 25 ]
+  },
+  {
+    "name": "Thousand Sons Blue",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#025573",
+    "rgb": [ 2, 85, 115 ],
+    "hsl": [ 196, 97, 23 ]
+  },
+  {
+    "name": "Waaagh! Flesh",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#295628",
+    "rgb": [ 41, 86, 40 ],
+    "hsl": [ 119, 37, 25 ]
+  },
+  {
+    "name": "Warplock Bronze",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": true,
+    "hex": "#573a3a",
+    "rgb": [ 87, 58, 58 ],
+    "hsl": [ 0, 20, 28 ]
+  },
+  {
+    "name": "Wraithbone",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#e6dbbe",
+    "rgb": [ 230, 219, 190 ],
+    "hsl": [ 43, 44, 82 ]
+  },
+  {
+    "name": "XV-88",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#7a4e1c",
+    "rgb": [ 122, 78, 28 ],
+    "hsl": [ 32, 63, 29 ]
+  },
+  {
+    "name": "Zandri Dust",
+    "range": "Citadel",
+    "type": "base",
+    "metallic": false,
+    "hex": "#a89757",
+    "rgb": [ 168, 151, 87 ],
+    "hsl": [ 47, 32, 50 ]
+  },
+  {
+    "name": "Agrax Earthshade",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#474225",
+    "rgb": [ 71, 66, 37 ],
+    "hsl": [ 51, 31, 21 ]
+  },
+  {
+    "name": "Agrax Earthshade Gloss",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#474225",
+    "rgb": [ 71, 66, 37 ],
+    "hsl": [ 51, 31, 21 ]
+  },
+  {
+    "name": "Athonian Camoshade",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#5c7a13",
+    "rgb": [ 92, 122, 19 ],
+    "hsl": [ 77, 73, 28 ]
+  },
+  {
+    "name": "Berserker Bloodshade",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#c03e61",
+    "rgb": [ 192, 62, 97 ],
+    "hsl": [ 344, 51, 50 ]
+  },
+  {
+    "name": "Biel-Tan Green",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#008742",
+    "rgb": [ 0, 135, 66 ],
+    "hsl": [ 149, 100, 26 ]
+  },
+  {
+    "name": "Carroburg Crimson",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#a60961",
+    "rgb": [ 166, 9, 97 ],
+    "hsl": [ 326, 90, 34 ]
+  },
+  {
+    "name": "Casandora Yellow",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#fdc600",
+    "rgb": [ 253, 198, 0 ],
+    "hsl": [ 47, 100, 50 ]
+  },
+  {
+    "name": "Coelia Greenshade",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#006e65",
+    "rgb": [ 0, 110, 101 ],
+    "hsl": [ 175, 100, 22 ]
+  },
+  {
+    "name": "Cryptek Armourshade Gloss",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#866767",
+    "rgb": [ 134, 103, 103 ],
+    "hsl": [ 0, 13, 46 ]
+  },
+  {
+    "name": "Drakenhof Nightshade",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#075396",
+    "rgb": [ 7, 83, 150 ],
+    "hsl": [ 208, 91, 31 ]
+  },
+  {
+    "name": "Druchii Violet",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#6a2073",
+    "rgb": [ 106, 32, 115 ],
+    "hsl": [ 293, 56, 29 ]
+  },
+  {
+    "name": "Fuegan Orange",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#b75e19",
+    "rgb": [ 183, 94, 25 ],
+    "hsl": [ 26, 76, 41 ]
+  },
+  {
+    "name": "Kroak Green",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#98c6a4",
+    "rgb": [ 152, 198, 164 ],
+    "hsl": [ 136, 29, 69 ]
+  },
+  {
+    "name": "Mortarion Grime",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#bfb74e",
+    "rgb": [ 191, 183, 78 ],
+    "hsl": [ 56, 47, 53 ]
+  },
+  {
+    "name": "Nuln Oil",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#000000",
+    "rgb": [ 0, 0, 0 ],
+    "hsl": [ 0, 0, 0 ]
+  },
+  {
+    "name": "Nuln Oil Gloss",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#000000",
+    "rgb": [ 0, 0, 0 ],
+    "hsl": [ 0, 0, 0 ]
+  },
+  {
+    "name": "Poxwalker",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#82adae",
+    "rgb": [ 130, 173, 174 ],
+    "hsl": [ 181, 21, 60 ]
+  },
+  {
+    "name": "Reikland Fleshshade",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#af2409",
+    "rgb": [ 175, 36, 9 ],
+    "hsl": [ 10, 90, 36 ]
+  },
+  {
+    "name": "Reikland Fleshshade Gloss",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#af2409",
+    "rgb": [ 175, 36, 9 ],
+    "hsl": [ 10, 90, 36 ]
+  },
+  {
+    "name": "Seraphim Sepia",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#ce691d",
+    "rgb": [ 206, 105, 29 ],
+    "hsl": [ 26, 75, 46 ]
+  },
+  {
+    "name": "Soulblight Grey",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#b6b1b3",
+    "rgb": [ 182, 177, 179 ],
+    "hsl": [ 336, 3, 70 ]
+  },
+  {
+    "name": "Targor Rageshade",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#7d6e7f",
+    "rgb": [ 125, 110, 127 ],
+    "hsl": [ 293, 7, 46 ]
+  },
+  {
+    "name": "Tyran Blue",
+    "range": "Citadel",
+    "type": "shade",
+    "metallic": false,
+    "hex": "#4b9ecd",
+    "rgb": [ 75, 158, 205 ],
+    "hsl": [ 202, 57, 55 ]
+  },
+  {
+    "name": "Administratum Grey",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#9da099",
+    "rgb": [ 157, 160, 153 ],
+    "hsl": [ 86, 4, 61 ]
+  },
+  {
+    "name": "Ahriman Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#007c8f",
+    "rgb": [ 0, 124, 143 ],
+    "hsl": [ 188, 100, 28 ]
+  },
+  {
+    "name": "Alaitoc Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#305688",
+    "rgb": [ 48, 86, 136 ],
+    "hsl": [ 214, 48, 36 ]
+  },
+  {
+    "name": "Altdorf Guard Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#2a4b9b",
+    "rgb": [ 42, 75, 155 ],
+    "hsl": [ 222, 57, 39 ]
+  },
+  {
+    "name": "Auric Armour Gold",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#e0a508",
+    "rgb": [ 224, 165, 8 ],
+    "hsl": [ 44, 93, 45 ]
+  },
+  {
+    "name": "Baharroth Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#64bfce",
+    "rgb": [ 100, 191, 206 ],
+    "hsl": [ 188, 52, 60 ]
+  },
+  {
+    "name": "Balor Brown",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#925e06",
+    "rgb": [ 146, 94, 6 ],
+    "hsl": [ 38, 92, 30 ]
+  },
+  {
+    "name": "Baneblade Brown",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#99816b",
+    "rgb": [ 153, 129, 107 ],
+    "hsl": [ 29, 18, 51 ]
+  },
+  {
+    "name": "Bestigor Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#d68c50",
+    "rgb": [ 214, 140, 80 ],
+    "hsl": [ 27, 62, 58 ]
+  },
+  {
+    "name": "Bloodreaver Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#784d4b",
+    "rgb": [ 120, 77, 75 ],
+    "hsl": [ 3, 23, 38 ]
+  },
+  {
+    "name": "Blue Horror",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#b0c2d8",
+    "rgb": [ 176, 194, 216 ],
+    "hsl": [ 213, 34, 77 ]
+  },
+  {
+    "name": "Brass Scorpion",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#904f09",
+    "rgb": [ 144, 79, 9 ],
+    "hsl": [ 31, 88, 30 ]
+  },
+  {
+    "name": "Cadian Fleshtone",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#cb7853",
+    "rgb": [ 203, 120, 83 ],
+    "hsl": [ 19, 54, 56 ]
+  },
+  {
+    "name": "Calgar Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#456eb4",
+    "rgb": [ 69, 110, 180 ],
+    "hsl": [ 218, 45, 49 ]
+  },
+  {
+    "name": "Canoptek Alloy",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#aa918b",
+    "rgb": [ 170, 145, 139 ],
+    "hsl": [ 12, 15, 61 ]
+  },
+  {
+    "name": "Castellax Bronze",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#784d4b",
+    "rgb": [ 120, 77, 75 ],
+    "hsl": [ 3, 23, 38 ]
+  },
+  {
+    "name": "Dark Reaper",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#425553",
+    "rgb": [ 66, 85, 83 ],
+    "hsl": [ 174, 13, 30 ]
+  },
+  {
+    "name": "Dawnstone",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#7a7d74",
+    "rgb": [ 122, 125, 116 ],
+    "hsl": [ 80, 4, 47 ]
+  },
+  {
+    "name": "Deathclaw Brown",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#b96a52",
+    "rgb": [ 185, 106, 82 ],
+    "hsl": [ 14, 42, 52 ]
+  },
+  {
+    "name": "Dechala Lilac",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#c0a8d0",
+    "rgb": [ 192, 168, 208 ],
+    "hsl": [ 276, 30, 74 ]
+  },
+  {
+    "name": "Deepkin Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#deded2",
+    "rgb": [ 222, 222, 210 ],
+    "hsl": [ 60, 15, 85 ]
+  },
+  {
+    "name": "Doombull Brown",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#5e0c0a",
+    "rgb": [ 94, 12, 10 ],
+    "hsl": [ 1, 81, 20 ]
+  },
+  {
+    "name": "Dorn Yellow",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#fff054",
+    "rgb": [ 255, 240, 84 ],
+    "hsl": [ 55, 100, 66 ]
+  },
+  {
+    "name": "Elysian Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#81932f",
+    "rgb": [ 129, 147, 47 ],
+    "hsl": [ 71, 52, 38 ]
+  },
+  {
+    "name": "Emperor's Children",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#bd4074",
+    "rgb": [ 189, 64, 116 ],
+    "hsl": [ 335, 49, 50 ]
+  },
+  {
+    "name": "Eshin Grey",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#545658",
+    "rgb": [ 84, 86, 88 ],
+    "hsl": [ 210, 2, 34 ]
+  },
+  {
+    "name": "Evil Sunz Scarlet",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#bf1111",
+    "rgb": [ 191, 17, 17 ],
+    "hsl": [ 0, 84, 41 ]
+  },
+  {
+    "name": "Fenrisian Grey",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#789dbb",
+    "rgb": [ 120, 157, 187 ],
+    "hsl": [ 207, 33, 60 ]
+  },
+  {
+    "name": "Fire Dragon Bright",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#f0844b",
+    "rgb": [ 240, 132, 75 ],
+    "hsl": [ 21, 85, 62 ]
+  },
+  {
+    "name": "Flash Gitz Yellow",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#ffed00",
+    "rgb": [ 255, 237, 0 ],
+    "hsl": [ 56, 100, 50 ]
+  },
+  {
+    "name": "Flayed One Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#e8c087",
+    "rgb": [ 232, 192, 135 ],
+    "hsl": [ 35, 68, 72 ]
+  },
+  {
+    "name": "Fulgrim Pink",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#f4b7d3",
+    "rgb": [ 244, 183, 211 ],
+    "hsl": [ 332, 73, 84 ]
+  },
+  {
+    "name": "Fulgurite Copper",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#e0a861",
+    "rgb": [ 224, 168, 97 ],
+    "hsl": [ 34, 67, 63 ]
+  },
+  {
+    "name": "Gauss Blaster Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#90c4aa",
+    "rgb": [ 144, 196, 170 ],
+    "hsl": [ 150, 31, 67 ]
+  },
+  {
+    "name": "Gehenna's Gold",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#c07009",
+    "rgb": [ 192, 112, 9 ],
+    "hsl": [ 34, 91, 39 ]
+  },
+  {
+    "name": "Genestealer Purple",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#7c5ba3",
+    "rgb": [ 124, 91, 163 ],
+    "hsl": [ 268, 28, 50 ]
+  },
+  {
+    "name": "Gorthor Brown",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#c07009",
+    "rgb": [ 192, 112, 9 ],
+    "hsl": [ 34, 91, 39 ]
+  },
+  {
+    "name": "Hashut Copper",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#a4520f",
+    "rgb": [ 164, 82, 15 ],
+    "hsl": [ 27, 83, 35 ]
+  },
+  {
+    "name": "Hoeth Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#507eb4",
+    "rgb": [ 80, 126, 180 ],
+    "hsl": [ 212, 40, 51 ]
+  },
+  {
+    "name": "Ironbreaker",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#7c8386",
+    "rgb": [ 124, 131, 134 ],
+    "hsl": [ 198, 4, 51 ]
+  },
+  {
+    "name": "Kabalite Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#008560",
+    "rgb": [ 0, 133, 96 ],
+    "hsl": [ 163, 100, 26 ]
+  },
+  {
+    "name": "Kakophoni Purple",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#9173ae",
+    "rgb": [ 145, 115, 174 ],
+    "hsl": [ 271, 27, 57 ]
+  },
+  {
+    "name": "Karak Stone",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#c1a068",
+    "rgb": [ 193, 160, 104 ],
+    "hsl": [ 38, 42, 58 ]
+  },
+  {
+    "name": "Kislev Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#c9a073",
+    "rgb": [ 201, 160, 115 ],
+    "hsl": [ 31, 44, 62 ]
+  },
+  {
+    "name": "Knight-questor Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#a16564",
+    "rgb": [ 161, 101, 100 ],
+    "hsl": [ 1, 24, 51 ]
+  },
+  {
+    "name": "Krieg Khaki",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#c9c17e",
+    "rgb": [ 201, 193, 126 ],
+    "hsl": [ 54, 41, 64 ]
+  },
+  {
+    "name": "Liberator Gold",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#b98d3a",
+    "rgb": [ 185, 141, 58 ],
+    "hsl": [ 39, 52, 48 ]
+  },
+  {
+    "name": "Loren Forest",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#5c7426",
+    "rgb": [ 92, 116, 38 ],
+    "hsl": [ 78, 51, 30 ]
+  },
+  {
+    "name": "Lothern Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#3ba1d0",
+    "rgb": [ 59, 161, 208 ],
+    "hsl": [ 199, 61, 52 ]
+  },
+  {
+    "name": "Lugganath Orange",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#f4a188",
+    "rgb": [ 244, 161, 136 ],
+    "hsl": [ 14, 83, 75 ]
+  },
+  {
+    "name": "Moot Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#56aa2e",
+    "rgb": [ 86, 170, 46 ],
+    "hsl": [ 101, 57, 42 ]
+  },
+  {
+    "name": "Nurgling Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#8fa15f",
+    "rgb": [ 143, 161, 95 ],
+    "hsl": [ 76, 26, 50 ]
+  },
+  {
+    "name": "Ogryn Camo",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#a9ae40",
+    "rgb": [ 169, 174, 64 ],
+    "hsl": [ 63, 46, 47 ]
+  },
+  {
+    "name": "Pallid Wych Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#d6d5c4",
+    "rgb": [ 214, 213, 196 ],
+    "hsl": [ 57, 18, 80 ]
+  },
+  {
+    "name": "Phalanx Yellow",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#fede32",
+    "rgb": [ 254, 222, 50 ],
+    "hsl": [ 51, 99, 60 ]
+  },
+  {
+    "name": "Pink Horror",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#96325c",
+    "rgb": [ 150, 50, 92 ],
+    "hsl": [ 335, 50, 39 ]
+  },
+  {
+    "name": "Runefang Steel",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#a8b2b8",
+    "rgb": [ 168, 178, 184 ],
+    "hsl": [ 203, 10, 69 ]
+  },
+  {
+    "name": "Runelord Brass",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#b4a899",
+    "rgb": [ 180, 168, 153 ],
+    "hsl": [ 33, 15, 65 ]
+  },
+  {
+    "name": "Russ Grey",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#54758a",
+    "rgb": [ 84, 117, 138 ],
+    "hsl": [ 203, 24, 44 ]
+  },
+  {
+    "name": "Screaming Skull",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#dad8a6",
+    "rgb": [ 218, 216, 166 ],
+    "hsl": [ 58, 41, 75 ]
+  },
+  {
+    "name": "Skarsnik Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#5f8f67",
+    "rgb": [ 95, 143, 103 ],
+    "hsl": [ 130, 20, 47 ]
+  },
+  {
+    "name": "Skavenblight Dinge",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#4f4740",
+    "rgb": [ 79, 71, 64 ],
+    "hsl": [ 28, 10, 28 ]
+  },
+  {
+    "name": "Skrag Brown",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#944b07",
+    "rgb": [ 148, 75, 7 ],
+    "hsl": [ 29, 91, 30 ]
+  },
+  {
+    "name": "Skullcrusher Brass",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#e9a84c",
+    "rgb": [ 233, 168, 76 ],
+    "hsl": [ 35, 78, 61 ]
+  },
+  {
+    "name": "Slaanesh Grey",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#958f9a",
+    "rgb": [ 149, 143, 154 ],
+    "hsl": [ 273, 5, 58 ]
+  },
+  {
+    "name": "Sons of Horus Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#08566a",
+    "rgb": [ 8, 86, 106 ],
+    "hsl": [ 192, 86, 22 ]
+  },
+  {
+    "name": "Sotek Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#0e6875",
+    "rgb": [ 14, 104, 117 ],
+    "hsl": [ 188, 79, 26 ]
+  },
+  {
+    "name": "Squig Orange",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#af4d3e",
+    "rgb": [ 175, 77, 62 ],
+    "hsl": [ 8, 48, 46 ]
+  },
+  {
+    "name": "Stormhost Silver",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#abb9be",
+    "rgb": [ 171, 185, 190 ],
+    "hsl": [ 196, 13, 71 ]
+  },
+  {
+    "name": "Stormvermin Fur",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#7c7269",
+    "rgb": [ 124, 114, 105 ],
+    "hsl": [ 28, 8, 45 ]
+  },
+  {
+    "name": "Straken Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#6f8515",
+    "rgb": [ 111, 133, 21 ],
+    "hsl": [ 72, 73, 30 ]
+  },
+  {
+    "name": "Sybarite Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#3aa063",
+    "rgb": [ 58, 160, 99 ],
+    "hsl": [ 144, 47, 43 ]
+  },
+  {
+    "name": "Sycorax Bronze",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": true,
+    "hex": "#b09572",
+    "rgb": [ 176, 149, 114 ],
+    "hsl": [ 34, 28, 57 ]
+  },
+  {
+    "name": "Tallarn Sand",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#aa7d00",
+    "rgb": [ 170, 125, 0 ],
+    "hsl": [ 44, 100, 33 ]
+  },
+  {
+    "name": "Tau Light Ochre",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#c16f09",
+    "rgb": [ 193, 111, 9 ],
+    "hsl": [ 33, 91, 40 ]
+  },
+  {
+    "name": "Teclis Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#397bbf",
+    "rgb": [ 57, 123, 191 ],
+    "hsl": [ 210, 54, 49 ]
+  },
+  {
+    "name": "Temple Guard Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#39998d",
+    "rgb": [ 57, 153, 141 ],
+    "hsl": [ 173, 46, 41 ]
+  },
+  {
+    "name": "Thunderhawk Blue",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#467379",
+    "rgb": [ 70, 115, 121 ],
+    "hsl": [ 187, 27, 37 ]
+  },
+  {
+    "name": "Troll Slayer Orange",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#eb641e",
+    "rgb": [ 235, 100, 30 ],
+    "hsl": [ 20, 84, 52 ]
+  },
+  {
+    "name": "Tuskgor Fur",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#8e3733",
+    "rgb": [ 142, 55, 51 ],
+    "hsl": [ 3, 47, 38 ]
+  },
+  {
+    "name": "Ulthuan Grey",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#d3e3de",
+    "rgb": [ 211, 227, 222 ],
+    "hsl": [ 161, 22, 86 ]
+  },
+  {
+    "name": "Ungor Flesh",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#dbac62",
+    "rgb": [ 219, 172, 98 ],
+    "hsl": [ 37, 63, 62 ]
+  },
+  {
+    "name": "Ushabti Bone",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#c5c180",
+    "rgb": [ 197, 193, 128 ],
+    "hsl": [ 57, 37, 64 ]
+  },
+  {
+    "name": "Vulkan Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#304635",
+    "rgb": [ 48, 70, 53 ],
+    "hsl": [ 134, 19, 23 ]
+  },
+  {
+    "name": "Warboss Green",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#3c7c54",
+    "rgb": [ 60, 124, 84 ],
+    "hsl": [ 143, 35, 36 ]
+  },
+  {
+    "name": "Warpfiend Grey",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#757179",
+    "rgb": [ 117, 113, 121 ],
+    "hsl": [ 270, 3, 46 ]
+  },
+  {
+    "name": "Warpstone Glow",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#277227",
+    "rgb": [ 39, 114, 39 ],
+    "hsl": [ 120, 49, 30 ]
+  },
+  {
+    "name": "Wazdakka Red",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#8d1207",
+    "rgb": [ 141, 18, 7 ],
+    "hsl": [ 5, 91, 29 ]
+  },
+  {
+    "name": "White Scar",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Wild Rider Red",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#e12318",
+    "rgb": [ 225, 35, 24 ],
+    "hsl": [ 3, 81, 49 ]
+  },
+  {
+    "name": "Word Bearers Red",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#650c12",
+    "rgb": [ 101, 12, 18 ],
+    "hsl": [ 356, 79, 22 ]
+  },
+  {
+    "name": "Xereus Purple",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#4b225b",
+    "rgb": [ 75, 34, 91 ],
+    "hsl": [ 283, 46, 25 ]
+  },
+  {
+    "name": "Yriel Yellow",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#ffd900",
+    "rgb": [ 255, 217, 0 ],
+    "hsl": [ 51, 100, 50 ]
+  },
+  {
+    "name": "Zamesi Desert",
+    "range": "Citadel",
+    "type": "layer",
+    "metallic": false,
+    "hex": "#e0a407",
+    "rgb": [ 224, 164, 7 ],
+    "hsl": [ 43, 94, 45 ]
+  },
+  {
+    "name": "Astorath Red",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#ae2d22",
+    "rgb": [ 174, 45, 34 ],
+    "hsl": [ 5, 67, 41 ]
+  },
+  {
+    "name": "Changeling Pink",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#f4b7d3",
+    "rgb": [ 244, 183, 211 ],
+    "hsl": [ 332, 73, 84 ]
+  },
+  {
+    "name": "Chronus Blue",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#5698d2",
+    "rgb": [ 86, 152, 210 ],
+    "hsl": [ 208, 58, 58 ]
+  },
+  {
+    "name": "Dawnstone",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#7a7d74",
+    "rgb": [ 122, 125, 116 ],
+    "hsl": [ 80, 4, 47 ]
+  },
+  {
+    "name": "Eldar Flesh",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#eec585",
+    "rgb": [ 238, 197, 133 ],
+    "hsl": [ 37, 76, 73 ]
+  },
+  {
+    "name": "Etherium Blue",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#b0c2d7",
+    "rgb": [ 176, 194, 215 ],
+    "hsl": [ 212, 33, 77 ]
+  },
+  {
+    "name": "Golden Griffon",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": true,
+    "hex": "#ac8f47",
+    "rgb": [ 172, 143, 71 ],
+    "hsl": [ 43, 42, 48 ]
+  },
+  {
+    "name": "Golgfag Brown",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#9a542e",
+    "rgb": [ 154, 84, 46 ],
+    "hsl": [ 21, 54, 39 ]
+  },
+  {
+    "name": "Hellion Green",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#90c4aa",
+    "rgb": [ 144, 196, 170 ],
+    "hsl": [ 150, 31, 67 ]
+  },
+  {
+    "name": "Hexos Palesun",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#fff054",
+    "rgb": [ 255, 240, 84 ],
+    "hsl": [ 55, 100, 66 ]
+  },
+  {
+    "name": "Hoeth Blue",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#507eb4",
+    "rgb": [ 80, 126, 180 ],
+    "hsl": [ 212, 40, 51 ]
+  },
+  {
+    "name": "Imrik Blue",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#058dc1",
+    "rgb": [ 5, 141, 193 ],
+    "hsl": [ 197, 95, 39 ]
+  },
+  {
+    "name": "Kindleflame",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#f4a28a",
+    "rgb": [ 244, 162, 138 ],
+    "hsl": [ 14, 83, 75 ]
+  },
+  {
+    "name": "Longbeard Grey",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#e6e3cf",
+    "rgb": [ 230, 227, 207 ],
+    "hsl": [ 52, 32, 86 ]
+  },
+  {
+    "name": "Lucius Lilac",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#c0a8d1",
+    "rgb": [ 192, 168, 209 ],
+    "hsl": [ 275, 31, 74 ]
+  },
+  {
+    "name": "Necron Compound",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": true,
+    "hex": "#7c8386",
+    "rgb": [ 124, 131, 134 ],
+    "hsl": [ 198, 4, 51 ]
+  },
+  {
+    "name": "Niblet Green",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#4e8d27",
+    "rgb": [ 78, 141, 39 ],
+    "hsl": [ 97, 57, 35 ]
+  },
+  {
+    "name": "Nurgling Green",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#8fa15f",
+    "rgb": [ 143, 161, 95 ],
+    "hsl": [ 76, 26, 50 ]
+  },
+  {
+    "name": "Praxeti White",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Ryza Rust",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#eb641e",
+    "rgb": [ 235, 100, 30 ],
+    "hsl": [ 20, 84, 52 ]
+  },
+  {
+    "name": "Sigmarite",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": true,
+    "hex": "#d7ab59",
+    "rgb": [ 215, 171, 89 ],
+    "hsl": [ 39, 61, 60 ]
+  },
+  {
+    "name": "Skink Blue",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#64bfce",
+    "rgb": [ 100, 191, 206 ],
+    "hsl": [ 188, 52, 60 ]
+  },
+  {
+    "name": "Slaanesh Grey",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#958f9a",
+    "rgb": [ 149, 143, 154 ],
+    "hsl": [ 273, 5, 58 ]
+  },
+  {
+    "name": "Stormfang",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#6689ae",
+    "rgb": [ 102, 137, 174 ],
+    "hsl": [ 211, 31, 54 ]
+  },
+  {
+    "name": "Sylvaneth Bark",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#5d503d",
+    "rgb": [ 93, 80, 61 ],
+    "hsl": [ 36, 21, 30 ]
+  },
+  {
+    "name": "Terminatus Stone",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#d4bd81",
+    "rgb": [ 212, 189, 129 ],
+    "hsl": [ 43, 49, 67 ]
+  },
+  {
+    "name": "Thunderhawk Blue",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#467379",
+    "rgb": [ 70, 115, 121 ],
+    "hsl": [ 187, 27, 37 ]
+  },
+  {
+    "name": "Tyrant Skull",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#d5ca85",
+    "rgb": [ 213, 202, 133 ],
+    "hsl": [ 52, 49, 68 ]
+  },
+  {
+    "name": "Underhive Ash",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#c9c17e",
+    "rgb": [ 201, 193, 126 ],
+    "hsl": [ 54, 41, 64 ]
+  },
+  {
+    "name": "Verminlord Hide",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#873833",
+    "rgb": [ 135, 56, 51 ],
+    "hsl": [ 4, 45, 36 ]
+  },
+  {
+    "name": "Wrack White",
+    "range": "Citadel",
+    "type": "dry",
+    "metallic": false,
+    "hex": "#dedada",
+    "rgb": [ 222, 218, 218 ],
+    "hsl": [ 0, 6, 86 ]
+  },
+  {
+    "name": "Bloodletter",
+    "range": "Citadel",
+    "type": "glaze",
+    "metallic": false,
+    "hex": "#e30613",
+    "rgb": [ 227, 6, 19 ],
+    "hsl": [ 356, 95, 46 ]
+  },
+  {
+    "name": "Guilliman Blue",
+    "range": "Citadel",
+    "type": "glaze",
+    "metallic": false,
+    "hex": "#007ac3",
+    "rgb": [ 0, 122, 195 ],
+    "hsl": [ 202, 100, 38 ]
+  },
+  {
+    "name": "Lamenters Yellow",
+    "range": "Citadel",
+    "type": "glaze",
+    "metallic": false,
+    "hex": "#ffed00",
+    "rgb": [ 255, 237, 0 ],
+    "hsl": [ 56, 100, 50 ]
+  },
+  {
+    "name": "Waywatcher Green",
+    "range": "Citadel",
+    "type": "glaze",
+    "metallic": false,
+    "hex": "#40ab35",
+    "rgb": [ 64, 171, 53 ],
+    "hsl": [ 114, 53, 44 ]
+  },
+  {
+    "name": "Ardcoat",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Blood For The Blood God",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#670d0e",
+    "rgb": [ 103, 13, 14 ],
+    "hsl": [ 359, 78, 23 ]
+  },
+  {
+    "name": "Contrast Medium",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Imperial Primer",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#242021",
+    "rgb": [ 36, 32, 33 ],
+    "hsl": [ 345, 6, 13 ]
+  },
+  {
+    "name": "Lahmian Medium",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Liquid Green Stuff",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#114433",
+    "rgb": [ 17, 68, 51 ],
+    "hsl": [ 160, 60, 17 ]
+  },
+  {
+    "name": "Mordant Earth",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#1d1d1b",
+    "rgb": [ 29, 29, 27 ],
+    "hsl": [ 60, 4, 11 ]
+  },
+  {
+    "name": "Nihilakh Oxide",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#6db69e",
+    "rgb": [ 109, 182, 158 ],
+    "hsl": [ 160, 33, 57 ]
+  },
+  {
+    "name": "Nurgles Rot",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#a48c22",
+    "rgb": [ 164, 140, 34 ],
+    "hsl": [ 49, 66, 39 ]
+  },
+  {
+    "name": "Soulstone Blue",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#004bf9",
+    "rgb": [ 0, 75, 249 ],
+    "hsl": [ 222, 100, 49 ]
+  },
+  {
+    "name": "Spiritstone Red",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#ff512d",
+    "rgb": [ 255, 81, 45 ],
+    "hsl": [ 10, 100, 59 ]
+  },
+  {
+    "name": "Stormshield",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Tesseract Glow",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#49ad33",
+    "rgb": [ 73, 173, 51 ],
+    "hsl": [ 109, 54, 44 ]
+  },
+  {
+    "name": "Typhus Corrosion",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#453c2b",
+    "rgb": [ 69, 60, 43 ],
+    "hsl": [ 39, 23, 22 ]
+  },
+  {
+    "name": "Waystone Green",
+    "range": "Citadel",
+    "type": "technical",
+    "metallic": false,
+    "hex": "#00bf00",
+    "rgb": [ 0, 191, 0 ],
+    "hsl": [ 120, 100, 37 ]
+  },
+  {
+    "name": "Agrellan Badland",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#917d6b",
+    "rgb": [ 145, 125, 107 ],
+    "hsl": [ 28, 15, 49 ]
+  },
+  {
+    "name": "Agrellan Earth",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#99816b",
+    "rgb": [ 153, 129, 107 ],
+    "hsl": [ 29, 18, 51 ]
+  },
+  {
+    "name": "Armageddon Dunes",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#d2a808",
+    "rgb": [ 210, 168, 8 ],
+    "hsl": [ 48, 93, 43 ]
+  },
+  {
+    "name": "Armageddon Dust",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#d7ae00",
+    "rgb": [ 215, 174, 0 ],
+    "hsl": [ 49, 100, 42 ]
+  },
+  {
+    "name": "Astrogranite",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#797978",
+    "rgb": [ 121, 121, 120 ],
+    "hsl": [ 60, 0, 47 ]
+  },
+  {
+    "name": "Astrogranite Debris",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#757679",
+    "rgb": [ 117, 118, 121 ],
+    "hsl": [ 225, 2, 47 ]
+  },
+  {
+    "name": "Blackfire Earth",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#ac5613",
+    "rgb": [ 172, 86, 19 ],
+    "hsl": [ 26, 80, 37 ]
+  },
+  {
+    "name": "Lustrian Undergrowth",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#4a5a04",
+    "rgb": [ 74, 90, 4 ],
+    "hsl": [ 71, 91, 18 ]
+  },
+  {
+    "name": "Martian Ironcrust",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#9f5241",
+    "rgb": [ 159, 82, 65 ],
+    "hsl": [ 11, 42, 44 ]
+  },
+  {
+    "name": "Martian Ironearth",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#a6533e",
+    "rgb": [ 166, 83, 62 ],
+    "hsl": [ 12, 46, 45 ]
+  },
+  {
+    "name": "Stirland Battlemire",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#482a00",
+    "rgb": [ 72, 42, 0 ],
+    "hsl": [ 35, 100, 14 ]
+  },
+  {
+    "name": "Stirland Mud",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#4b3000",
+    "rgb": [ 75, 48, 0 ],
+    "hsl": [ 38, 100, 15 ]
+  },
+  {
+    "name": "Valhallan Blizzard",
+    "range": "Citadel",
+    "type": "texture",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Abaddon Black",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#000000",
+    "rgb": [ 0, 0, 0 ],
+    "hsl": [ 0, 0, 0 ]
+  },
+  {
+    "name": "Administratum Grey",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#9da099",
+    "rgb": [ 157, 160, 153 ],
+    "hsl": [ 86, 4, 61 ]
+  },
+  {
+    "name": "Air Caste Thinner",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Angron Red",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#e31d36",
+    "rgb": [ 227, 29, 54 ],
+    "hsl": [ 352, 78, 50 ]
+  },
+  {
+    "name": "Averland Sunset",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#fbba00",
+    "rgb": [ 251, 186, 0 ],
+    "hsl": [ 44, 100, 49 ]
+  },
+  {
+    "name": "Balor Brown",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#925e06",
+    "rgb": [ 146, 94, 6 ],
+    "hsl": [ 38, 92, 30 ]
+  },
+  {
+    "name": "Balthasar Gold",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#7a3e09",
+    "rgb": [ 122, 62, 9 ],
+    "hsl": [ 28, 86, 26 ]
+  },
+  {
+    "name": "Baneblade Brown",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#99816b",
+    "rgb": [ 153, 129, 107 ],
+    "hsl": [ 29, 18, 51 ]
+  },
+  {
+    "name": "Caledor Sky",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#3a679b",
+    "rgb": [ 58, 103, 155 ],
+    "hsl": [ 212, 46, 42 ]
+  },
+  {
+    "name": "Calgar Blue",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#456eb4",
+    "rgb": [ 69, 110, 180 ],
+    "hsl": [ 218, 45, 49 ]
+  },
+  {
+    "name": "Caliban Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#003b1e",
+    "rgb": [ 0, 59, 30 ],
+    "hsl": [ 151, 100, 12 ]
+  },
+  {
+    "name": "Calth Blue",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#1794d5",
+    "rgb": [ 23, 148, 213 ],
+    "hsl": [ 201, 81, 46 ]
+  },
+  {
+    "name": "Castellan Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#3a4c21",
+    "rgb": [ 58, 76, 33 ],
+    "hsl": [ 85, 39, 21 ]
+  },
+  {
+    "name": "Castellax Bronze",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#784d4b",
+    "rgb": [ 120, 77, 75 ],
+    "hsl": [ 3, 23, 38 ]
+  },
+  {
+    "name": "Chemos Purple",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#5b406f",
+    "rgb": [ 91, 64, 111 ],
+    "hsl": [ 274, 27, 34 ]
+  },
+  {
+    "name": "Citadel Air Cleaner",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Corvus Black",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#1d1d1b",
+    "rgb": [ 29, 29, 27 ],
+    "hsl": [ 60, 4, 11 ]
+  },
+  {
+    "name": "Dawnstone",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#7a7d74",
+    "rgb": [ 122, 125, 116 ],
+    "hsl": [ 80, 4, 47 ]
+  },
+  {
+    "name": "Death Korps Drab",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#4a4c40",
+    "rgb": [ 74, 76, 64 ],
+    "hsl": [ 70, 9, 27 ]
+  },
+  {
+    "name": "Deathclaw Brown",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#b96a52",
+    "rgb": [ 185, 106, 82 ],
+    "hsl": [ 14, 42, 52 ]
+  },
+  {
+    "name": "Deathshroud",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#2f2f2d",
+    "rgb": [ 47, 47, 45 ],
+    "hsl": [ 60, 2, 18 ]
+  },
+  {
+    "name": "Deathworld Forest",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#686d2d",
+    "rgb": [ 104, 109, 45 ],
+    "hsl": [ 65, 42, 30 ]
+  },
+  {
+    "name": "Dryad Bark",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#3b352e",
+    "rgb": [ 59, 53, 46 ],
+    "hsl": [ 32, 12, 21 ]
+  },
+  {
+    "name": "Eidolon Purple",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#8565a5",
+    "rgb": [ 133, 101, 165 ],
+    "hsl": [ 270, 26, 52 ]
+  },
+  {
+    "name": "Elysian Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#81932f",
+    "rgb": [ 129, 147, 47 ],
+    "hsl": [ 71, 52, 38 ]
+  },
+  {
+    "name": "Evil Sunz Scarlet",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#bf1111",
+    "rgb": [ 191, 17, 17 ],
+    "hsl": [ 0, 84, 41 ]
+  },
+  {
+    "name": "Fenrisian Grey",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#789dbb",
+    "rgb": [ 120, 157, 187 ],
+    "hsl": [ 207, 33, 60 ]
+  },
+  {
+    "name": "Flash Gitz Yellow",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#ffed00",
+    "rgb": [ 255, 237, 0 ],
+    "hsl": [ 56, 100, 50 ]
+  },
+  {
+    "name": "Gal Vorbak Red",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#55323e",
+    "rgb": [ 85, 50, 62 ],
+    "hsl": [ 339, 26, 26 ]
+  },
+  {
+    "name": "Genestealer Purple",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#7c5ba3",
+    "rgb": [ 124, 91, 163 ],
+    "hsl": [ 268, 28, 50 ]
+  },
+  {
+    "name": "Grey Knights Steel",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#93c5e2",
+    "rgb": [ 147, 197, 226 ],
+    "hsl": [ 202, 58, 73 ]
+  },
+  {
+    "name": "Iron Hands Steel",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#8e9295",
+    "rgb": [ 142, 146, 149 ],
+    "hsl": [ 206, 3, 57 ]
+  },
+  {
+    "name": "Ironbreaker",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#7c8386",
+    "rgb": [ 124, 131, 134 ],
+    "hsl": [ 198, 4, 51 ]
+  },
+  {
+    "name": "Kakophoni Purple",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#9173ae",
+    "rgb": [ 145, 115, 174 ],
+    "hsl": [ 271, 27, 57 ]
+  },
+  {
+    "name": "Kantor Blue",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#0d244e",
+    "rgb": [ 13, 36, 78 ],
+    "hsl": [ 219, 71, 18 ]
+  },
+  {
+    "name": "Karak Stone",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#c1a068",
+    "rgb": [ 193, 160, 104 ],
+    "hsl": [ 38, 42, 58 ]
+  },
+  {
+    "name": "Khorne Red",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#6b0e02",
+    "rgb": [ 107, 14, 2 ],
+    "hsl": [ 7, 96, 21 ]
+  },
+  {
+    "name": "Kislev Flesh",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#c9a073",
+    "rgb": [ 201, 160, 115 ],
+    "hsl": [ 31, 44, 62 ]
+  },
+  {
+    "name": "Leadbelcher",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#455051",
+    "rgb": [ 69, 80, 81 ],
+    "hsl": [ 185, 8, 29 ]
+  },
+  {
+    "name": "Lothern Blue",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#3ba1d0",
+    "rgb": [ 59, 161, 208 ],
+    "hsl": [ 199, 61, 52 ]
+  },
+  {
+    "name": "Lupercal Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#022c2f",
+    "rgb": [ 2, 44, 47 ],
+    "hsl": [ 184, 92, 10 ]
+  },
+  {
+    "name": "Macragge Blue",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#193a79",
+    "rgb": [ 25, 58, 121 ],
+    "hsl": [ 219, 66, 29 ]
+  },
+  {
+    "name": "Mechanicus Standard Grey",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#454f50",
+    "rgb": [ 69, 79, 80 ],
+    "hsl": [ 185, 7, 29 ]
+  },
+  {
+    "name": "Mephiston Red",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#9b130b",
+    "rgb": [ 155, 19, 11 ],
+    "hsl": [ 3, 87, 33 ]
+  },
+  {
+    "name": "Moot Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#56aa2e",
+    "rgb": [ 86, 170, 46 ],
+    "hsl": [ 101, 57, 42 ]
+  },
+  {
+    "name": "Mortarion Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#228c40",
+    "rgb": [ 34, 140, 64 ],
+    "hsl": [ 137, 61, 34 ]
+  },
+  {
+    "name": "Mournfang Brown",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#681409",
+    "rgb": [ 104, 20, 9 ],
+    "hsl": [ 7, 84, 22 ]
+  },
+  {
+    "name": "Night Lords Blue",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#043660",
+    "rgb": [ 4, 54, 96 ],
+    "hsl": [ 207, 92, 20 ]
+  },
+  {
+    "name": "Nocturne Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#1e322b",
+    "rgb": [ 30, 50, 43 ],
+    "hsl": [ 159, 25, 16 ]
+  },
+  {
+    "name": "Ogryn Camo",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#a9ae40",
+    "rgb": [ 169, 174, 64 ],
+    "hsl": [ 63, 46, 47 ]
+  },
+  {
+    "name": "Phalanx Yellow",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#fede32",
+    "rgb": [ 254, 222, 50 ],
+    "hsl": [ 51, 99, 60 ]
+  },
+  {
+    "name": "Phoenician Purple",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#471352",
+    "rgb": [ 71, 19, 82 ],
+    "hsl": [ 290, 62, 20 ]
+  },
+  {
+    "name": "Pyroclast Orange",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#ea8641",
+    "rgb": [ 234, 134, 65 ],
+    "hsl": [ 24, 80, 59 ]
+  },
+  {
+    "name": "Relictor Gold",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#bc9d65",
+    "rgb": [ 188, 157, 101 ],
+    "hsl": [ 39, 39, 57 ]
+  },
+  {
+    "name": "Runefang Steel",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#a8b2b8",
+    "rgb": [ 168, 178, 184 ],
+    "hsl": [ 203, 10, 69 ]
+  },
+  {
+    "name": "Russ Grey",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#54758a",
+    "rgb": [ 84, 117, 138 ],
+    "hsl": [ 203, 24, 44 ]
+  },
+  {
+    "name": "Sigismund Yellow",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#ece44e",
+    "rgb": [ 236, 228, 78 ],
+    "hsl": [ 57, 81, 62 ]
+  },
+  {
+    "name": "Sons of Horus Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#08566a",
+    "rgb": [ 8, 86, 106 ],
+    "hsl": [ 192, 86, 22 ]
+  },
+  {
+    "name": "Steel Legion Drab",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#685733",
+    "rgb": [ 104, 87, 51 ],
+    "hsl": [ 41, 34, 30 ]
+  },
+  {
+    "name": "Straken Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#6f8515",
+    "rgb": [ 111, 133, 21 ],
+    "hsl": [ 72, 73, 30 ]
+  },
+  {
+    "name": "Sybarite Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#3aa063",
+    "rgb": [ 58, 160, 99 ],
+    "hsl": [ 144, 47, 43 ]
+  },
+  {
+    "name": "Tallarn Sand",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#aa7d00",
+    "rgb": [ 170, 125, 0 ],
+    "hsl": [ 44, 100, 33 ]
+  },
+  {
+    "name": "Tau Light Ochre",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#c16f09",
+    "rgb": [ 193, 111, 9 ],
+    "hsl": [ 33, 91, 40 ]
+  },
+  {
+    "name": "Temple Guard Blue",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#39998d",
+    "rgb": [ 57, 153, 141 ],
+    "hsl": [ 173, 46, 41 ]
+  },
+  {
+    "name": "Terminatus Stone",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#d4bd81",
+    "rgb": [ 212, 189, 129 ],
+    "hsl": [ 43, 49, 67 ]
+  },
+  {
+    "name": "Thallax Gold",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#b3532d",
+    "rgb": [ 179, 83, 45 ],
+    "hsl": [ 17, 60, 44 ]
+  },
+  {
+    "name": "The Fang",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#4a667b",
+    "rgb": [ 74, 102, 123 ],
+    "hsl": [ 206, 25, 39 ]
+  },
+  {
+    "name": "Troll Slayer Orange",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#eb641e",
+    "rgb": [ 235, 100, 30 ],
+    "hsl": [ 20, 84, 52 ]
+  },
+  {
+    "name": "Tuskgor Fur",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#8e3733",
+    "rgb": [ 142, 55, 51 ],
+    "hsl": [ 3, 47, 38 ]
+  },
+  {
+    "name": "Typhon Ash",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#eae2cf",
+    "rgb": [ 234, 226, 207 ],
+    "hsl": [ 42, 39, 86 ]
+  },
+  {
+    "name": "Ulthuan Grey",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#d3e3de",
+    "rgb": [ 211, 227, 222 ],
+    "hsl": [ 161, 22, 86 ]
+  },
+  {
+    "name": "Ushabti Bone",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#c5c180",
+    "rgb": [ 197, 193, 128 ],
+    "hsl": [ 57, 37, 64 ]
+  },
+  {
+    "name": "Valdor Gold",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": true,
+    "hex": "#917b67",
+    "rgb": [ 145, 123, 103 ],
+    "hsl": [ 29, 17, 49 ]
+  },
+  {
+    "name": "Vulkan Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#304635",
+    "rgb": [ 48, 70, 53 ],
+    "hsl": [ 134, 19, 23 ]
+  },
+  {
+    "name": "Warboss Green",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#3c7c54",
+    "rgb": [ 60, 124, 84 ],
+    "hsl": [ 143, 35, 36 ]
+  },
+  {
+    "name": "White Scar",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Word Bearers Red",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#650c12",
+    "rgb": [ 101, 12, 18 ],
+    "hsl": [ 356, 79, 22 ]
+  },
+  {
+    "name": "XV-88",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#7a4e1c",
+    "rgb": [ 122, 78, 28 ],
+    "hsl": [ 32, 63, 29 ]
+  },
+  {
+    "name": "Zandri Dust",
+    "range": "Citadel",
+    "type": "air",
+    "metallic": false,
+    "hex": "#a89757",
+    "rgb": [ 168, 151, 87 ],
+    "hsl": [ 47, 32, 50 ]
+  },
+  {
+    "name": "Averland Sunset",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#fbba00",
+    "rgb": [ 251, 186, 0 ],
+    "hsl": [ 44, 100, 49 ]
+  },
+  {
+    "name": "Caliban Green",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#003b1e",
+    "rgb": [ 0, 59, 30 ],
+    "hsl": [ 151, 100, 12 ]
+  },
+  {
+    "name": "Chaos Black",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#000000",
+    "rgb": [ 0, 0, 0 ],
+    "hsl": [ 0, 0, 0 ]
+  },
+  {
+    "name": "Corax White",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Death Guard Green",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#737a51",
+    "rgb": [ 115, 122, 81 ],
+    "hsl": [ 70, 20, 40 ]
+  },
+  {
+    "name": "Grey Seer",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#c6c6c6",
+    "rgb": [ 198, 198, 198 ],
+    "hsl": [ 0, 0, 78 ]
+  },
+  {
+    "name": "Leadbelcher",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": true,
+    "hex": "#455051",
+    "rgb": [ 69, 80, 81 ],
+    "hsl": [ 185, 8, 29 ]
+  },
+  {
+    "name": "Macragge Blue",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#193a79",
+    "rgb": [ 25, 58, 121 ],
+    "hsl": [ 219, 66, 29 ]
+  },
+  {
+    "name": "Mechanicus Standard Grey",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#454f50",
+    "rgb": [ 69, 79, 80 ],
+    "hsl": [ 185, 7, 29 ]
+  },
+  {
+    "name": "Mephiston Red",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#9b130b",
+    "rgb": [ 155, 19, 11 ],
+    "hsl": [ 3, 87, 33 ]
+  },
+  {
+    "name": "Mournfang Brown",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#681409",
+    "rgb": [ 104, 20, 9 ],
+    "hsl": [ 7, 84, 22 ]
+  },
+  {
+    "name": "Munitorum Varnish",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Purity Seal",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Retributor Armour",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": true,
+    "hex": "#cb9320",
+    "rgb": [ 203, 147, 32 ],
+    "hsl": [ 40, 73, 46 ]
+  },
+  {
+    "name": "Runelord Brass",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": true,
+    "hex": "#4c3d2e",
+    "rgb": [ 76, 61, 46 ],
+    "hsl": [ 30, 25, 24 ]
+  },
+  {
+    "name": "Stormvermin Fur",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#7c7269",
+    "rgb": [ 124, 114, 105 ],
+    "hsl": [ 28, 8, 45 ]
+  },
+  {
+    "name": "The Fang",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#4a667b",
+    "rgb": [ 74, 102, 123 ],
+    "hsl": [ 206, 25, 39 ]
+  },
+  {
+    "name": "White Scar",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#ffffff",
+    "rgb": [ 255, 255, 255 ],
+    "hsl": [ 0, 0, 100 ]
+  },
+  {
+    "name": "Wraithbone",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#e6dbbe",
+    "rgb": [ 230, 219, 190 ],
+    "hsl": [ 43, 44, 82 ]
+  },
+  {
+    "name": "Zandri Dust",
+    "range": "Citadel",
+    "type": "spray",
+    "metallic": false,
+    "hex": "#a89757",
+    "rgb": [ 168, 151, 87 ],
+    "hsl": [ 47, 32, 50 ]
+  },
+  {
+    "name": "Aeldari Emerald",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#017468",
+    "rgb": [ 1, 116, 104 ],
+    "hsl": [ 174, 98, 23 ]
+  },
+  {
+    "name": "Aethermatic Blue",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#86c0ca",
+    "rgb": [ 134, 192, 202 ],
+    "hsl": [ 189, 39, 66 ]
+  },
+  {
+    "name": "Aggaros Dunes",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#d4be78",
+    "rgb": [ 212, 190, 120 ],
+    "hsl": [ 46, 52, 65 ]
+  },
+  {
+    "name": "Akhelian Green",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#127f9e",
+    "rgb": [ 18, 127, 158 ],
+    "hsl": [ 193, 80, 35 ]
+  },
+  {
+    "name": "Apothecary White",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#f7fcff",
+    "rgb": [ 247, 252, 255 ],
+    "hsl": [ 202, 100, 98 ]
+  },
+  {
+    "name": "Asurmen Blue",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#01619d",
+    "rgb": [ 1, 97, 157 ],
+    "hsl": [ 203, 99, 31 ]
+  },
+  {
+    "name": "Baal Red",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#cd1a27",
+    "rgb": [ 205, 26, 39 ],
+    "hsl": [ 356, 77, 45 ]
+  },
+  {
+    "name": "Bad Moon Yellow",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#fcc60a",
+    "rgb": [ 252, 198, 10 ],
+    "hsl": [ 47, 98, 51 ]
+  },
+  {
+    "name": "Basilicanum Grey",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#9d9d9d",
+    "rgb": [ 157, 157, 157 ],
+    "hsl": [ 0, 0, 62 ]
+  },
+  {
+    "name": "Black Legion",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#383636",
+    "rgb": [ 56, 54, 54 ],
+    "hsl": [ 0, 2, 22 ]
+  },
+  {
+    "name": "Black Templar",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#6f6f6f",
+    "rgb": [ 111, 111, 111 ],
+    "hsl": [ 0, 0, 44 ]
+  },
+  {
+    "name": "Blood Angels Red",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#be1a2d",
+    "rgb": [ 190, 26, 45 ],
+    "hsl": [ 353, 76, 42 ]
+  },
+  {
+    "name": "Briar Queen Chill",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#6facbb",
+    "rgb": [ 111, 172, 187 ],
+    "hsl": [ 192, 36, 58 ]
+  },
+  {
+    "name": "Celestium Blue",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#154d88",
+    "rgb": [ 21, 77, 136 ],
+    "hsl": [ 211, 73, 31 ]
+  },
+  {
+    "name": "Creed Camo",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#679577",
+    "rgb": [ 103, 149, 119 ],
+    "hsl": [ 141, 18, 49 ]
+  },
+  {
+    "name": "Cygor Brown",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#784d4b",
+    "rgb": [ 120, 77, 75 ],
+    "hsl": [ 3, 23, 38 ]
+  },
+  {
+    "name": "Dark Angels Green",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#075246",
+    "rgb": [ 7, 82, 70 ],
+    "hsl": [ 170, 84, 17 ]
+  },
+  {
+    "name": "Darkoath Flesh",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#dfb899",
+    "rgb": [ 223, 184, 153 ],
+    "hsl": [ 27, 52, 74 ]
+  },
+  {
+    "name": "Doomfire Magenta",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#d1017c",
+    "rgb": [ 209, 1, 124 ],
+    "hsl": [ 325, 99, 41 ]
+  },
+  {
+    "name": "Dreadful Visage",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#c4b0c2",
+    "rgb": [ 196, 176, 194 ],
+    "hsl": [ 306, 14, 73 ]
+  },
+  {
+    "name": "Flesh Tearers Red",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#89171b",
+    "rgb": [ 137, 23, 27 ],
+    "hsl": [ 358, 71, 31 ]
+  },
+  {
+    "name": "Frostheart",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#01577d",
+    "rgb": [ 1, 87, 125 ],
+    "hsl": [ 198, 98, 25 ]
+  },
+  {
+    "name": "Fyreslayer Flesh",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#be7a6f",
+    "rgb": [ 190, 122, 111 ],
+    "hsl": [ 8, 38, 59 ]
+  },
+  {
+    "name": "Garaghak's Sewer",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#6f5128",
+    "rgb": [ 111, 81, 40 ],
+    "hsl": [ 35, 47, 30 ]
+  },
+  {
+    "name": "Gore-grunta Fur",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#923d11",
+    "rgb": [ 146, 61, 17 ],
+    "hsl": [ 20, 79, 32 ]
+  },
+  {
+    "name": "Gryph-charger Grey",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#aeccdd",
+    "rgb": [ 174, 204, 221 ],
+    "hsl": [ 202, 41, 77 ]
+  },
+  {
+    "name": "Gryph-hound Orange",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#ea643f",
+    "rgb": [ 234, 100, 63 ],
+    "hsl": [ 13, 80, 58 ]
+  },
+  {
+    "name": "Guilliman Flesh",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#d4a79b",
+    "rgb": [ 212, 167, 155 ],
+    "hsl": [ 13, 40, 72 ]
+  },
+  {
+    "name": "Gutrippa Flesh",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#628e62",
+    "rgb": [ 98, 142, 98 ],
+    "hsl": [ 120, 18, 47 ]
+  },
+  {
+    "name": "Hexwraith Flame",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#3d8840",
+    "rgb": [ 61, 136, 64 ],
+    "hsl": [ 122, 38, 39 ]
+  },
+  {
+    "name": "Imperial Fist",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#fcae16",
+    "rgb": [ 252, 174, 22 ],
+    "hsl": [ 40, 97, 54 ]
+  },
+  {
+    "name": "Ironjawz Yellow",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#dbaa3f",
+    "rgb": [ 219, 170, 63 ],
+    "hsl": [ 41, 68, 55 ]
+  },
+  {
+    "name": "Iyanden Yellow",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#fdc743",
+    "rgb": [ 253, 199, 67 ],
+    "hsl": [ 43, 98, 63 ]
+  },
+  {
+    "name": "Karandras Green",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#02803a",
+    "rgb": [ 2, 128, 58 ],
+    "hsl": [ 147, 97, 25 ]
+  },
+  {
+    "name": "Kroxigor Scales",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#01778a",
+    "rgb": [ 1, 119, 138 ],
+    "hsl": [ 188, 99, 27 ]
+  },
+  {
+    "name": "Leviadon Blue",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#04365e",
+    "rgb": [ 4, 54, 94 ],
+    "hsl": [ 207, 92, 19 ]
+  },
+  {
+    "name": "Leviathan Purple",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#1c034c",
+    "rgb": [ 28, 3, 76 ],
+    "hsl": [ 261, 92, 15 ]
+  },
+  {
+    "name": "Luxion Purple",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#360b62",
+    "rgb": [ 54, 11, 98 ],
+    "hsl": [ 270, 80, 21 ]
+  },
+  {
+    "name": "Magmadroth Flame",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#e05427",
+    "rgb": [ 224, 84, 39 ],
+    "hsl": [ 15, 75, 52 ]
+  },
+  {
+    "name": "Magos Purple",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#c3aec5",
+    "rgb": [ 195, 174, 197 ],
+    "hsl": [ 295, 17, 73 ]
+  },
+  {
+    "name": "Mantis Warriors Green",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#5f8a3e",
+    "rgb": [ 95, 138, 62 ],
+    "hsl": [ 94, 38, 39 ]
+  },
+  {
+    "name": "Militarum Green",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#9f9f55",
+    "rgb": [ 159, 159, 85 ],
+    "hsl": [ 60, 30, 48 ]
+  },
+  {
+    "name": "Nazdreg Yellow",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#dc9c24",
+    "rgb": [ 220, 156, 36 ],
+    "hsl": [ 39, 72, 50 ]
+  },
+  {
+    "name": "Nighthaunt Gloom",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#466a78",
+    "rgb": [ 70, 106, 120 ],
+    "hsl": [ 197, 26, 37 ]
+  },
+  {
+    "name": "Ork Flesh",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#108235",
+    "rgb": [ 16, 130, 53 ],
+    "hsl": [ 139, 78, 29 ]
+  },
+  {
+    "name": "Plaguebearer Flesh",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#ccd0ab",
+    "rgb": [ 204, 208, 171 ],
+    "hsl": [ 66, 28, 74 ]
+  },
+  {
+    "name": "Pylar Glacier",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#3baee5",
+    "rgb": [ 59, 174, 229 ],
+    "hsl": [ 199, 77, 56 ]
+  },
+  {
+    "name": "Ratling Grime",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#696463",
+    "rgb": [ 105, 100, 99 ],
+    "hsl": [ 10, 3, 40 ]
+  },
+  {
+    "name": "Shyish Purple",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#5b406f",
+    "rgb": [ 91, 64, 111 ],
+    "hsl": [ 274, 27, 34 ]
+  },
+  {
+    "name": "Sigvald Burgundy",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#6b014c",
+    "rgb": [ 107, 1, 76 ],
+    "hsl": [ 318, 98, 21 ]
+  },
+  {
+    "name": "Skeleton Horde",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#eee3c5",
+    "rgb": [ 238, 227, 197 ],
+    "hsl": [ 44, 55, 85 ]
+  },
+  {
+    "name": "Snakebite Leather",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#b56e25",
+    "rgb": [ 181, 110, 37 ],
+    "hsl": [ 30, 66, 43 ]
+  },
+  {
+    "name": "Space Wolves Grey",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#93b2ca",
+    "rgb": [ 147, 178, 202 ],
+    "hsl": [ 206, 34, 68 ]
+  },
+  {
+    "name": "Stormfiend",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#015580",
+    "rgb": [ 1, 85, 128 ],
+    "hsl": [ 200, 98, 25 ]
+  },
+  {
+    "name": "Striking Scorpion Green",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#08833e",
+    "rgb": [ 8, 131, 62 ],
+    "hsl": [ 146, 88, 27 ]
+  },
+  {
+    "name": "Talassar Blue",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#137dc1",
+    "rgb": [ 19, 125, 193 ],
+    "hsl": [ 203, 82, 42 ]
+  },
+  {
+    "name": "Terradon Turquoise",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#1693a9",
+    "rgb": [ 22, 147, 169 ],
+    "hsl": [ 189, 77, 37 ]
+  },
+  {
+    "name": "Ultramarine Blue",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#2a5887",
+    "rgb": [ 42, 88, 135 ],
+    "hsl": [ 210, 53, 35 ]
+  },
+  {
+    "name": "Volupus Pink",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#900845",
+    "rgb": [ 144, 8, 69 ],
+    "hsl": [ 333, 89, 30 ]
+  },
+  {
+    "name": "Warp Lightning",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#259856",
+    "rgb": [ 37, 152, 86 ],
+    "hsl": [ 146, 61, 37 ]
+  },
+  {
+    "name": "Wyldwood",
+    "range": "Citadel",
+    "type": "contrast",
+    "metallic": false,
+    "hex": "#705552",
+    "rgb": [ 112, 85, 82 ],
+    "hsl": [ 6, 15, 38 ]
+  }
+]
