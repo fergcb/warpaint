@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "public": "web/dist",
     "rewrites": [
       {
         "source": "/api/v1",
