@@ -9,6 +9,19 @@ export const typeDefs = `
     hsl: [Int]!
     distance: Float, # Only if distance-based filter is used
   }
+
+  type PaintsPage {
+    items: [Paint]!
+    page: Int!
+    size: Int!
+    first: Int!
+    last: Int!
+    itemCount: Int!
+    totalCount: Int!
+    pageCount: Int!
+    hasNext: Boolean!
+    hasPrev: Boolean!
+  }
   
   input Colour {
     rgb: [Int]
@@ -21,17 +34,23 @@ export const typeDefs = `
     target: Colour!,
   }
 
-  enum Sort {
+  enum SortOrder {
     asc
     desc
   }
 
-  input OrderBy {
-    name: Sort
-    range: Sort
-    type: Sort
-    metallic: Sort
-    distance: Sort
+  enum SortField {
+    name
+    range
+    type
+    metallic
+    distance
+    colour
+  }
+
+  input Sort {
+    field: SortField!
+    order: SortOrder!
   }
 
   type Query {
@@ -40,12 +59,13 @@ export const typeDefs = `
       name: String,
       range: String,
       type: String,
+      types: [String],
       metallic: Boolean,
       similarTo: SimilarColour,
       page: Int = 0,
       size: Int = 100,
-      orderBy: OrderBy,
-    ): [Paint],
+      sortBy: [Sort],
+    ): PaintsPage,
 
     paint(
       name: String!

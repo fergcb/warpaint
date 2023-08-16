@@ -2,6 +2,19 @@
 import paints from "../data/paints.json" assert { type: "json" };
 import { delta, hex2rgb, hsl2rgb, Paint } from "../paint.ts";
 
+interface PaintsPage {
+  items: Paint[];
+  page: number;
+  size: number;
+  first: number;
+  last: number;
+  itemCount: number;
+  totalCount: number;
+  pageCount: number;
+  hasNext: boolean;
+  hasPrev: boolean;
+}
+
 interface SimilarColour {
   maxDistance: number;
   target: Colour;
@@ -10,22 +23,18 @@ interface SimilarColour {
 type Colour = { hex: string } | { rgb: number[] } | { hsl: number[] };
 
 type SortOrder = "asc" | "desc";
+type SortField = "range" | "type" | "name" | "metallic" | "distance" | "colour";
 
 interface PaintsArgs {
   name?: string;
   range?: string;
   type?: string;
+  types?: string[];
   metallic?: boolean;
   similarTo?: SimilarColour;
   page: number;
   size: number;
-  orderBy?: {
-    range?: SortOrder;
-    type?: SortOrder;
-    name?: SortOrder;
-    metallic?: SortOrder;
-    distance?: SortOrder;
-  };
+  sortBy?: Array<{ field: SortField; order: SortOrder }>;
 }
 
 interface PaintArgs {
@@ -33,11 +42,15 @@ interface PaintArgs {
 }
 
 function eq(a: string, b: string): boolean {
-  return a.toLowerCase() === b.toLocaleLowerCase();
+  return a.toLowerCase() === b.toLowerCase();
 }
 
 function includes(a: string, b: string): boolean {
   return a.toLowerCase().includes(b.toLowerCase());
+}
+
+function contains(a: string[], b: string): boolean {
+  return a.some((x) => x.toLowerCase() === b.toLowerCase());
 }
 
 function isSimilar(paint: Paint, query: SimilarColour): boolean {
@@ -73,45 +86,70 @@ function isSimilar(paint: Paint, query: SimilarColour): boolean {
 
 export const resolvers = {
   Query: {
-    paints: (_: any, args: PaintsArgs) => {
-      const orderBy: PaintsArgs["orderBy"] = Object.assign(
-        {},
-        args.similarTo !== undefined
-          ? {
-            distance: "asc",
-          }
-          : {
-            name: "asc",
-          },
-        args.orderBy,
-      );
+    paints: (_: any, args: PaintsArgs): PaintsPage => {
+      const sortBy: PaintsArgs["sortBy"] = args.sortBy ??
+        (args.similarTo !== undefined
+          ? [{ field: "distance", order: "asc" }]
+          : [{ field: "name", order: "asc" }]);
 
-      return paints
+      const items = paints
         .map((p) => p as Paint)
         .filter(
           (paint) =>
             (args.name === undefined || includes(paint.name, args.name)) &&
             (args.range === undefined || eq(paint.range, args.range)) &&
             (args.type === undefined || eq(paint.type, args.type)) &&
+            (args.types === undefined || contains(args.types, paint.type)) &&
             (args.metallic === undefined || paint.metallic === args.metallic) &&
             (args.similarTo === undefined ||
               isSimilar(paint as Paint, args.similarTo!)),
         )
-        .slice(args.page * args.size, (args.page + 1) * args.size)
         .toSorted((a, b): number => {
-          for (
-            const [key, order] of Object.entries(orderBy) as [
-              keyof Paint,
-              SortOrder,
-            ][]
-          ) {
+          for (const { field, order } of sortBy) {
             const d = order === "asc" ? 1 : -1;
-            if (a[key]! > b[key]!) return d;
-            else if (a[key]! < b[key]!) return -d;
+            if (field === "colour") {
+              for (let i = 0; i < 3; i++) {
+                if (a.hsl[i] > b.hsl[i]) return d;
+                if (a.hsl[i] < b.hsl[i]) return -d;
+              }
+            } else {
+              const ak = a[field as keyof Paint];
+              const bk = b[field as keyof Paint];
+              if (ak! > bk!) return d;
+              if (ak! < bk!) return -d;
+            }
           }
 
           return 0;
         });
+
+      const { page, size } = args;
+      const totalCount = items.length;
+      const pageCount = Math.ceil(totalCount / size);
+      const first = page * size;
+      const last = Math.min((page + 1) * size, totalCount);
+      const hasNext = page < pageCount - 1;
+      const hasPrev = page > 0;
+
+      const pageItems = items.slice(
+        first,
+        last,
+      );
+
+      const itemCount = pageItems.length;
+
+      return {
+        items: pageItems,
+        page: page,
+        size,
+        first,
+        last,
+        itemCount,
+        totalCount,
+        pageCount,
+        hasNext,
+        hasPrev,
+      };
     },
     paint: (_: any, { name }: PaintArgs) => {
       return paints.find((paint) => paint.name === name);
