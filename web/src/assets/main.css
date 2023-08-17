@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.router-link-active {
+nav .router-link-active {
   @apply text-pink-600 border-pink-600;
 }
