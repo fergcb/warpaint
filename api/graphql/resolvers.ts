@@ -2,6 +2,10 @@
 import paints from "../data/paints.json" assert { type: "json" };
 import { delta, hex2rgb, hsl2rgb, Paint } from "../paint.ts";
 
+interface PaintArgs {
+  id: string;
+}
+
 interface PaintsPage {
   items: Paint[];
   page: number;
@@ -35,10 +39,6 @@ interface PaintsArgs {
   page: number;
   size: number;
   sortBy?: Array<{ field: SortField; order: SortOrder }>;
-}
-
-interface PaintArgs {
-  name: string;
 }
 
 function eq(a: string, b: string): boolean {
@@ -86,6 +86,9 @@ function isSimilar(paint: Paint, query: SimilarColour): boolean {
 
 export const resolvers = {
   Query: {
+    paint: (_: any, { id }: PaintArgs) => {
+      return paints.find((paint) => paint.id === id);
+    },
     paints: (_: any, args: PaintsArgs): PaintsPage => {
       const sortBy: PaintsArgs["sortBy"] = args.sortBy ??
         (args.similarTo !== undefined
@@ -150,9 +153,6 @@ export const resolvers = {
         hasNext,
         hasPrev,
       };
-    },
-    paint: (_: any, { name }: PaintArgs) => {
-      return paints.find((paint) => paint.name === name);
     },
   },
 };
