@@ -15,6 +15,7 @@ import { reactive, watch } from 'vue';
   const { result, loading, error } = useQuery(gql`
     query($id: String!) {
       paint(id: $id) {
+        id
         name
         range
         type
@@ -77,7 +78,7 @@ import { reactive, watch } from 'vue';
           </li>
         </ul>
       </div>
-      <SimilarColours :target="result.paint.hex" class="mt-6" />
+      <SimilarColours :id="result.paint.id" :target="result.paint.hex" class="mt-6" />
     </div>
   </main>
 </template>

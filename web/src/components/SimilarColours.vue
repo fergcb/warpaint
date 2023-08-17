@@ -6,6 +6,7 @@ import { useQuery } from "@vue/apollo-composable";
 import gql from 'graphql-tag'
 
 const props = defineProps<{
+  id: string,
   target: string
 }>()
 
@@ -43,7 +44,7 @@ const { result, loading, error, onError } = useQuery<{ paints: { items: Paint[] 
 onError(console.error)
 
 const paints = computed(() => {
-  return result.value?.paints?.items?.slice(1) ?? []
+  return result.value?.paints?.items?.filter(paint => paint.id !== props.id) ?? []
 })
 
 </script>
