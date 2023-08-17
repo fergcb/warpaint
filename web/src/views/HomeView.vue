@@ -3,7 +3,7 @@ import { RouterLink } from 'vue-router'
 </script>
 
 <template>
-  <main class="grid justify-center px-4 md:mt-32">
+  <main class="grid justify-center px-4 md:mt-16">
     <section>
       <h1 class="text-5xl font-bold text-pink-600">Warpaint</h1>
       <p class="max-w-[64ch] text-xl italic">Warpaint is a collection of tools for working with data about popular miniature wargaming paints.</p>
