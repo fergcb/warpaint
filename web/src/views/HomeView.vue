@@ -11,7 +11,12 @@ import { RouterLink } from 'vue-router'
     <section>
       <h2 class="text-3xl font-semibold text-pink-400 mt-8 mb-2">Explore Paints</h2>
       <p class="mb-4">Search the paint database with a web interface.</p>
-      <RouterLink to="/paints" class="bg-pink-500 text-stone-50 px-3 py-1 rounded inline-block transition-colors hover:bg-pink-400">Explore now</RouterLink>
+      <RouterLink to="paints" class="bg-pink-500 text-stone-50 px-3 py-1 rounded inline-block transition-colors hover:bg-pink-400">Explore now</RouterLink>
+    </section>
+    <section>
+      <h2 class="text-3xl font-semibold text-pink-400 mt-8 mb-2">Colour Matcher</h2>
+      <p class="mb-4">Find the closest paint for any colour.</p>
+      <RouterLink to="picker" class="bg-pink-500 text-stone-50 px-3 py-1 rounded inline-block transition-colors hover:bg-pink-400">Try it</RouterLink>
     </section>
     <section>
       <h2 class="text-3xl font-semibold text-pink-400 mt-8 mb-2">GraphQL API</h2>

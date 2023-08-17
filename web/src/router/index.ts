@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import PaintsView from '../views/PaintsView.vue'
 import PaintView from '../views/PaintView.vue'
+import PickerView from '@/views/PickerView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -20,6 +21,11 @@ const router = createRouter({
       path: '/paint/:id',
       name: 'paint',
       component: PaintView,
+    },
+    {
+      path: '/picker',
+      name: 'picker',
+      component: PickerView,
     }
   ]
 })

@@ -6,30 +6,30 @@ import { useQuery } from "@vue/apollo-composable";
 import gql from 'graphql-tag'
 import { reactive, watch } from 'vue';
 
-  const route = useRoute()
+const route = useRoute()
 
-  const queryVars = reactive({
-    id: route.params.id
-  });
+const queryVars = reactive({
+  id: route.params.id
+});
 
-  const { result, loading, error } = useQuery(gql`
-    query($id: String!) {
-      paint(id: $id) {
-        id
-        name
-        range
-        type
-        metallic
-        hex
-        rgb
-        hsl
-      }
+const { result, loading, error } = useQuery(gql`
+  query($id: String!) {
+    paint(id: $id) {
+      id
+      name
+      range
+      type
+      metallic
+      hex
+      rgb
+      hsl
     }
-  `, queryVars)
+  }
+`, queryVars)
 
-  watch(() => route.params.id, async id => {
-    queryVars.id = id
-  })
+watch(() => route.params.id, async id => {
+  queryVars.id = id
+})
 </script>
 
 <template>
@@ -39,7 +39,15 @@ import { reactive, watch } from 'vue';
     <div v-else>
       <h1 class="text-2xl font-semibold mb-2 text-stone-600">{{ result.paint.name }}</h1>
       <div class="flex flex-col sm:flex-row gap-4">
-        <div class="rounded-lg w-full sm:w-64 h-32 sm:h-64" :style="{ backgroundColor: result.paint.hex }"></div>
+        <div>
+          <div class="rounded-lg w-full sm:w-64 h-32 sm:h-64" :style="{ backgroundColor: result.paint.hex }"></div>
+          <RouterLink
+            :to="`/picker?r=${result.paint.rgb[0]}&g=${result.paint.rgb[1]}&b=${result.paint.rgb[2]}`"
+            class="bg-pink-600 text-stone-100 rounded p-2 inline-block mt-2 text-sm w-full sm:w-64 text-center"
+          >
+            Open in Colour Matcher
+          </RouterLink>
+        </div>
         <ul>
           <li>
             <span class="font-semibold text-pink-600">Range:</span>
