@@ -1,16 +1,10 @@
 <script setup lang="ts">
-import PageControls from '../components/PageControls.vue'
+import PageControls from '@/components/PageControls.vue'
+import PaintList from '@/components/PaintList.vue'
+import type { Page, Paint } from '@/types';
 import { useQuery } from "@vue/apollo-composable";
 import gql from 'graphql-tag'
 import { type Ref, reactive } from "vue";
-
-interface Paint {
-  range: string
-  name: string
-  type: string
-  metallic: boolean
-  hex: string
-}
 
 const queryVars = reactive({
   page: 0,
@@ -41,6 +35,7 @@ const { result, loading, error, onError } = useQuery(gql`
       first
       last
       items {
+        id
         range
         name
         type
@@ -63,34 +58,13 @@ function prevPage() {
   queryVars.page -= 1
 }
 
-const data: Ref<{
-  paints: {
-    page: number,
-    pageCount: number,
-    totalCount: number,
-    hasNext: boolean,
-    hasPrev: boolean,
-    first: number,
-    last: number,
-    items: Paint[]
-  }
-}> = result
-
-function clean(str: string): string {
-  return str
-    .replace("'", '')
-    .replace(/[^a-zA-Z0-9]+/g, '-')
-}
-
-function id(paint: Paint) {
-  return `${clean(paint.range)}_${clean(paint.type)}_${clean(paint.name)}`
-}
+const data: Ref<{ paints: Page<Paint> }> = result
   
 </script>
 
 <template>
   <main class="p-4">
-    <h1 class="text-2xl font-semibold mb-4">Paints</h1>
+    <h1 class="text-2xl font-semibold mb-4 text-stone-600">Paints</h1>
     <div class="grid grid-cols-10 grid-rows-[auto/auto] gap-2 mb-4">
         <div class="bg-stone-100 rounded p-3 row-span-1 col-span-10 lg:col-span-4 lg:row-span-2 xl:col-span-2">
           <h2 class="text-base font-semibold text-pink-600 mb-2">Paint Type</h2>
@@ -176,23 +150,9 @@ function id(paint: Paint) {
         @prev="prevPage"
         @next="nextPage"
       />
-      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2">
-        <li v-for="paint of data.paints.items" :key="id(paint)" class="flex gap-2 items-center py-1 px-2 bg-stone-100 rounded">
-          <div class="w-12 h-12 rounded" :style="{ backgroundColor: paint.hex }"></div>
-          <div>
-            <div class="-mb-1">
-              <span class="font-semibold">{{ paint.name }}</span>
-            </div>
-            <div class="text-sm">
-              <span>{{ paint.range }}</span>
-              {{ ' ' }}
-              <span class="text-pink-600">{{ paint.type }}</span>
-              {{ ' ' }}
-              <span v-if="paint.metallic" class="text-stone-500">(metallic)</span>
-            </div>
-          </div>
-        </li>
-      </ul>
+
+      <PaintList :paints="data.paints.items" />
+      
       <PageControls
         :page="data.paints.page"
         :pageCount="data.paints.pageCount"
