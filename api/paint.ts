@@ -29,7 +29,7 @@ export function createPaint(
   range: string,
   type: string,
   hex: string,
-  metallic = false,
+  metallic = false
 ): Paint {
   const colours = expandHexcode(hex);
   return {
@@ -60,6 +60,10 @@ export function hex2rgb(hex: string): Colour["rgb"] {
 
 export function hsl2rgb([h, s, l]: [number, number, number]): Colour["rgb"] {
   let r, g, b;
+
+  h /= 360;
+  s /= 100;
+  l /= 100;
 
   if (s === 0) {
     r = g = b = l;
@@ -164,8 +168,7 @@ export function delta(a: Colour["rgb"], b: Colour["rgb"]): number {
   const deltaCkcsc = deltaC / sc;
   const deltaHkhsh = deltaH / sh;
 
-  const i = deltaLKlsl * deltaLKlsl + deltaCkcsc * deltaCkcsc +
-    deltaHkhsh * deltaHkhsh;
+  const i = deltaLKlsl * deltaLKlsl + deltaCkcsc * deltaCkcsc + deltaHkhsh * deltaHkhsh;
 
   return i < 0 ? 0 : Math.sqrt(i);
 }
