@@ -1,4 +1,5 @@
 export type Paint = {
+  id: string;
   name: string;
   range: string;
   type: string;
@@ -12,15 +13,27 @@ interface Colour {
   hsl: [number, number, number];
 }
 
+function clean(str: string): string {
+  return str
+    .replace("'", "")
+    .replace(/[^a-zA-Z0-9]+/g, "-")
+    .toLowerCase();
+}
+
+function createId(range: string, type: string, name: string): string {
+  return `${clean(range)}_${clean(type)}_${clean(name)}`;
+}
+
 export function createPaint(
   name: string,
   range: string,
   type: string,
   hex: string,
-  metallic = false
+  metallic = false,
 ): Paint {
   const colours = expandHexcode(hex);
   return {
+    id: createId(range, type, name),
     name,
     range,
     type: type.toLowerCase(),
@@ -151,7 +164,8 @@ export function delta(a: Colour["rgb"], b: Colour["rgb"]): number {
   const deltaCkcsc = deltaC / sc;
   const deltaHkhsh = deltaH / sh;
 
-  const i = deltaLKlsl * deltaLKlsl + deltaCkcsc * deltaCkcsc + deltaHkhsh * deltaHkhsh;
+  const i = deltaLKlsl * deltaLKlsl + deltaCkcsc * deltaCkcsc +
+    deltaHkhsh * deltaHkhsh;
 
   return i < 0 ? 0 : Math.sqrt(i);
 }

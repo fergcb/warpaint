@@ -1,5 +1,6 @@
 export const typeDefs = `
   type Paint {
+    id: String!,
     name: String!,
     range: String!,
     type: String!,
@@ -68,7 +69,7 @@ export const typeDefs = `
     ): PaintsPage,
 
     paint(
-      name: String!
+      id: String!
     ): Paint
 
   }

@@ -1,5 +1,6 @@
 [
   {
+    "id": "citadel_base_abaddon-black",
     "name": "Abaddon Black",
     "range": "Citadel",
     "type": "base",
@@ -9,6 +10,7 @@
     "hsl": [ 0, 0, 0 ]
   },
   {
+    "id": "citadel_base_averland-sunset",
     "name": "Averland Sunset",
     "range": "Citadel",
     "type": "base",
@@ -18,6 +20,7 @@
     "hsl": [ 44, 100, 49 ]
   },
   {
+    "id": "citadel_base_balthasar-gold",
     "name": "Balthasar Gold",
     "range": "Citadel",
     "type": "base",
@@ -27,6 +30,7 @@
     "hsl": [ 28, 86, 26 ]
   },
   {
+    "id": "citadel_base_barak-nar-burgundy",
     "name": "Barak-Nar Burgundy",
     "range": "Citadel",
     "type": "base",
@@ -36,6 +40,7 @@
     "hsl": [ 331, 31, 23 ]
   },
   {
+    "id": "citadel_base_bugmans-glow",
     "name": "Bugman's Glow",
     "range": "Citadel",
     "type": "base",
@@ -45,6 +50,7 @@
     "hsl": [ 11, 35, 41 ]
   },
   {
+    "id": "citadel_base_caledor-sky",
     "name": "Caledor Sky",
     "range": "Citadel",
     "type": "base",
@@ -54,6 +60,7 @@
     "hsl": [ 212, 46, 42 ]
   },
   {
+    "id": "citadel_base_caliban-green",
     "name": "Caliban Green",
     "range": "Citadel",
     "type": "base",
@@ -63,6 +70,7 @@
     "hsl": [ 151, 100, 12 ]
   },
   {
+    "id": "citadel_base_castellan-green",
     "name": "Castellan Green",
     "range": "Citadel",
     "type": "base",
@@ -72,6 +80,7 @@
     "hsl": [ 85, 39, 21 ]
   },
   {
+    "id": "citadel_base_catachan-fleshtone",
     "name": "Catachan Fleshtone",
     "range": "Citadel",
     "type": "base",
@@ -81,6 +90,7 @@
     "hsl": [ 14, 23, 25 ]
   },
   {
+    "id": "citadel_base_celestra-grey",
     "name": "Celestra Grey",
     "range": "Citadel",
     "type": "base",
@@ -90,6 +100,7 @@
     "hsl": [ 180, 10, 65 ]
   },
   {
+    "id": "citadel_base_ceramite-white",
     "name": "Ceramite White",
     "range": "Citadel",
     "type": "base",
@@ -99,6 +110,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_base_corax-white",
     "name": "Corax White",
     "range": "Citadel",
     "type": "base",
@@ -108,6 +120,7 @@
     "hsl": [ 0, 0, 93 ]
   },
   {
+    "id": "citadel_base_corvus-black",
     "name": "Corvus Black",
     "range": "Citadel",
     "type": "base",
@@ -117,6 +130,7 @@
     "hsl": [ 60, 4, 11 ]
   },
   {
+    "id": "citadel_base_daemonette-hide",
     "name": "Daemonette Hide",
     "range": "Citadel",
     "type": "base",
@@ -126,6 +140,7 @@
     "hsl": [ 252, 12, 49 ]
   },
   {
+    "id": "citadel_base_death-guard-green",
     "name": "Death Guard Green",
     "range": "Citadel",
     "type": "base",
@@ -135,6 +150,7 @@
     "hsl": [ 70, 20, 40 ]
   },
   {
+    "id": "citadel_base_death-korps-drab",
     "name": "Death Korps Drab",
     "range": "Citadel",
     "type": "base",
@@ -144,6 +160,7 @@
     "hsl": [ 70, 9, 27 ]
   },
   {
+    "id": "citadel_base_deathworld-forest",
     "name": "Deathworld Forest",
     "range": "Citadel",
     "type": "base",
@@ -153,6 +170,7 @@
     "hsl": [ 65, 42, 30 ]
   },
   {
+    "id": "citadel_base_dryad-bark",
     "name": "Dryad Bark",
     "range": "Citadel",
     "type": "base",
@@ -162,6 +180,7 @@
     "hsl": [ 32, 12, 21 ]
   },
   {
+    "id": "citadel_base_gal-vorbak-red",
     "name": "Gal Vorbak Red",
     "range": "Citadel",
     "type": "base",
@@ -171,6 +190,7 @@
     "hsl": [ 339, 26, 26 ]
   },
   {
+    "id": "citadel_base_grey-knights-steel",
     "name": "Grey Knights Steel",
     "range": "Citadel",
     "type": "base",
@@ -180,6 +200,7 @@
     "hsl": [ 202, 58, 73 ]
   },
   {
+    "id": "citadel_base_grey-seer",
     "name": "Grey Seer",
     "range": "Citadel",
     "type": "base",
@@ -189,6 +210,7 @@
     "hsl": [ 0, 0, 78 ]
   },
   {
+    "id": "citadel_base_hobgrot-hide",
     "name": "Hobgrot Hide",
     "range": "Citadel",
     "type": "base",
@@ -198,6 +220,7 @@
     "hsl": [ 44, 59, 40 ]
   },
   {
+    "id": "citadel_base_incubi-darkness",
     "name": "Incubi Darkness",
     "range": "Citadel",
     "type": "base",
@@ -207,6 +230,7 @@
     "hsl": [ 181, 66, 16 ]
   },
   {
+    "id": "citadel_base_ionrach-skin",
     "name": "Ionrach Skin",
     "range": "Citadel",
     "type": "base",
@@ -216,6 +240,7 @@
     "hsl": [ 32, 35, 80 ]
   },
   {
+    "id": "citadel_base_iron-hands-steel",
     "name": "Iron Hands Steel",
     "range": "Citadel",
     "type": "base",
@@ -225,6 +250,7 @@
     "hsl": [ 206, 3, 57 ]
   },
   {
+    "id": "citadel_base_iron-warriors",
     "name": "Iron Warriors",
     "range": "Citadel",
     "type": "base",
@@ -234,6 +260,7 @@
     "hsl": [ 12, 9, 22 ]
   },
   {
+    "id": "citadel_base_jokaero-orange",
     "name": "Jokaero Orange",
     "range": "Citadel",
     "type": "base",
@@ -243,6 +270,7 @@
     "hsl": [ 8, 85, 48 ]
   },
   {
+    "id": "citadel_base_kantor-blue",
     "name": "Kantor Blue",
     "range": "Citadel",
     "type": "base",
@@ -252,6 +280,7 @@
     "hsl": [ 219, 71, 18 ]
   },
   {
+    "id": "citadel_base_khorne-red",
     "name": "Khorne Red",
     "range": "Citadel",
     "type": "base",
@@ -261,6 +290,7 @@
     "hsl": [ 7, 96, 21 ]
   },
   {
+    "id": "citadel_base_leadbelcher",
     "name": "Leadbelcher",
     "range": "Citadel",
     "type": "base",
@@ -270,6 +300,7 @@
     "hsl": [ 185, 8, 29 ]
   },
   {
+    "id": "citadel_base_lupercal-green",
     "name": "Lupercal Green",
     "range": "Citadel",
     "type": "base",
@@ -279,6 +310,7 @@
     "hsl": [ 184, 92, 10 ]
   },
   {
+    "id": "citadel_base_macragge-blue",
     "name": "Macragge Blue",
     "range": "Citadel",
     "type": "base",
@@ -288,6 +320,7 @@
     "hsl": [ 219, 66, 29 ]
   },
   {
+    "id": "citadel_base_mechanicus-standard-grey",
     "name": "Mechanicus Standard Grey",
     "range": "Citadel",
     "type": "base",
@@ -297,6 +330,7 @@
     "hsl": [ 185, 7, 29 ]
   },
   {
+    "id": "citadel_base_mephiston-red",
     "name": "Mephiston Red",
     "range": "Citadel",
     "type": "base",
@@ -306,6 +340,7 @@
     "hsl": [ 3, 87, 33 ]
   },
   {
+    "id": "citadel_base_morghast-bone",
     "name": "Morghast Bone",
     "range": "Citadel",
     "type": "base",
@@ -315,6 +350,7 @@
     "hsl": [ 42, 39, 65 ]
   },
   {
+    "id": "citadel_base_mournfang-brown",
     "name": "Mournfang Brown",
     "range": "Citadel",
     "type": "base",
@@ -324,6 +360,7 @@
     "hsl": [ 7, 84, 22 ]
   },
   {
+    "id": "citadel_base_naggaroth-night",
     "name": "Naggaroth Night",
     "range": "Citadel",
     "type": "base",
@@ -333,6 +370,7 @@
     "hsl": [ 267, 22, 27 ]
   },
   {
+    "id": "citadel_base_night-lords-blue",
     "name": "Night Lords Blue",
     "range": "Citadel",
     "type": "base",
@@ -342,6 +380,7 @@
     "hsl": [ 207, 92, 20 ]
   },
   {
+    "id": "citadel_base_nocturne-green",
     "name": "Nocturne Green",
     "range": "Citadel",
     "type": "base",
@@ -351,6 +390,7 @@
     "hsl": [ 159, 25, 16 ]
   },
   {
+    "id": "citadel_base_orruk-flesh",
     "name": "Orruk Flesh",
     "range": "Citadel",
     "type": "base",
@@ -360,6 +400,7 @@
     "hsl": [ 103, 38, 61 ]
   },
   {
+    "id": "citadel_base_phoenician-purple",
     "name": "Phoenician Purple",
     "range": "Citadel",
     "type": "base",
@@ -369,6 +410,7 @@
     "hsl": [ 290, 62, 20 ]
   },
   {
+    "id": "citadel_base_rakarth-flesh",
     "name": "Rakarth Flesh",
     "range": "Citadel",
     "type": "base",
@@ -378,6 +420,7 @@
     "hsl": [ 37, 13, 63 ]
   },
   {
+    "id": "citadel_base_ratskin-flesh",
     "name": "Ratskin Flesh",
     "range": "Citadel",
     "type": "base",
@@ -387,6 +430,7 @@
     "hsl": [ 21, 43, 49 ]
   },
   {
+    "id": "citadel_base_retributor-armour",
     "name": "Retributor Armour",
     "range": "Citadel",
     "type": "base",
@@ -396,6 +440,7 @@
     "hsl": [ 40, 73, 46 ]
   },
   {
+    "id": "citadel_base_rhinox-hide",
     "name": "Rhinox Hide",
     "range": "Citadel",
     "type": "base",
@@ -405,6 +450,7 @@
     "hsl": [ 2, 21, 25 ]
   },
   {
+    "id": "citadel_base_runelord-brass",
     "name": "Runelord Brass",
     "range": "Citadel",
     "type": "base",
@@ -414,6 +460,7 @@
     "hsl": [ 30, 25, 24 ]
   },
   {
+    "id": "citadel_base_screamer-pink",
     "name": "Screamer Pink",
     "range": "Citadel",
     "type": "base",
@@ -423,6 +470,7 @@
     "hsl": [ 338, 67, 31 ]
   },
   {
+    "id": "citadel_base_screaming-bell",
     "name": "Screaming Bell",
     "range": "Citadel",
     "type": "base",
@@ -432,6 +480,7 @@
     "hsl": [ 21, 89, 36 ]
   },
   {
+    "id": "citadel_base_steel-legion-drab",
     "name": "Steel Legion Drab",
     "range": "Citadel",
     "type": "base",
@@ -441,6 +490,7 @@
     "hsl": [ 41, 34, 30 ]
   },
   {
+    "id": "citadel_base_stegadon-scale-green",
     "name": "Stegadon Scale Green",
     "range": "Citadel",
     "type": "base",
@@ -450,6 +500,7 @@
     "hsl": [ 198, 98, 19 ]
   },
   {
+    "id": "citadel_base_the-fang",
     "name": "The Fang",
     "range": "Citadel",
     "type": "base",
@@ -459,6 +510,7 @@
     "hsl": [ 206, 25, 39 ]
   },
   {
+    "id": "citadel_base_thondia-brown",
     "name": "Thondia Brown",
     "range": "Citadel",
     "type": "base",
@@ -468,6 +520,7 @@
     "hsl": [ 9, 33, 25 ]
   },
   {
+    "id": "citadel_base_thousand-sons-blue",
     "name": "Thousand Sons Blue",
     "range": "Citadel",
     "type": "base",
@@ -477,6 +530,7 @@
     "hsl": [ 196, 97, 23 ]
   },
   {
+    "id": "citadel_base_waaagh-flesh",
     "name": "Waaagh! Flesh",
     "range": "Citadel",
     "type": "base",
@@ -486,6 +540,7 @@
     "hsl": [ 119, 37, 25 ]
   },
   {
+    "id": "citadel_base_warplock-bronze",
     "name": "Warplock Bronze",
     "range": "Citadel",
     "type": "base",
@@ -495,6 +550,7 @@
     "hsl": [ 0, 20, 28 ]
   },
   {
+    "id": "citadel_base_wraithbone",
     "name": "Wraithbone",
     "range": "Citadel",
     "type": "base",
@@ -504,6 +560,7 @@
     "hsl": [ 43, 44, 82 ]
   },
   {
+    "id": "citadel_base_xv-88",
     "name": "XV-88",
     "range": "Citadel",
     "type": "base",
@@ -513,6 +570,7 @@
     "hsl": [ 32, 63, 29 ]
   },
   {
+    "id": "citadel_base_zandri-dust",
     "name": "Zandri Dust",
     "range": "Citadel",
     "type": "base",
@@ -522,6 +580,7 @@
     "hsl": [ 47, 32, 50 ]
   },
   {
+    "id": "citadel_shade_agrax-earthshade",
     "name": "Agrax Earthshade",
     "range": "Citadel",
     "type": "shade",
@@ -531,6 +590,7 @@
     "hsl": [ 51, 31, 21 ]
   },
   {
+    "id": "citadel_shade_agrax-earthshade-gloss",
     "name": "Agrax Earthshade Gloss",
     "range": "Citadel",
     "type": "shade",
@@ -540,6 +600,7 @@
     "hsl": [ 51, 31, 21 ]
   },
   {
+    "id": "citadel_shade_athonian-camoshade",
     "name": "Athonian Camoshade",
     "range": "Citadel",
     "type": "shade",
@@ -549,6 +610,7 @@
     "hsl": [ 77, 73, 28 ]
   },
   {
+    "id": "citadel_shade_berserker-bloodshade",
     "name": "Berserker Bloodshade",
     "range": "Citadel",
     "type": "shade",
@@ -558,6 +620,7 @@
     "hsl": [ 344, 51, 50 ]
   },
   {
+    "id": "citadel_shade_biel-tan-green",
     "name": "Biel-Tan Green",
     "range": "Citadel",
     "type": "shade",
@@ -567,6 +630,7 @@
     "hsl": [ 149, 100, 26 ]
   },
   {
+    "id": "citadel_shade_carroburg-crimson",
     "name": "Carroburg Crimson",
     "range": "Citadel",
     "type": "shade",
@@ -576,6 +640,7 @@
     "hsl": [ 326, 90, 34 ]
   },
   {
+    "id": "citadel_shade_casandora-yellow",
     "name": "Casandora Yellow",
     "range": "Citadel",
     "type": "shade",
@@ -585,6 +650,7 @@
     "hsl": [ 47, 100, 50 ]
   },
   {
+    "id": "citadel_shade_coelia-greenshade",
     "name": "Coelia Greenshade",
     "range": "Citadel",
     "type": "shade",
@@ -594,6 +660,7 @@
     "hsl": [ 175, 100, 22 ]
   },
   {
+    "id": "citadel_shade_cryptek-armourshade-gloss",
     "name": "Cryptek Armourshade Gloss",
     "range": "Citadel",
     "type": "shade",
@@ -603,6 +670,7 @@
     "hsl": [ 0, 13, 46 ]
   },
   {
+    "id": "citadel_shade_drakenhof-nightshade",
     "name": "Drakenhof Nightshade",
     "range": "Citadel",
     "type": "shade",
@@ -612,6 +680,7 @@
     "hsl": [ 208, 91, 31 ]
   },
   {
+    "id": "citadel_shade_druchii-violet",
     "name": "Druchii Violet",
     "range": "Citadel",
     "type": "shade",
@@ -621,6 +690,7 @@
     "hsl": [ 293, 56, 29 ]
   },
   {
+    "id": "citadel_shade_fuegan-orange",
     "name": "Fuegan Orange",
     "range": "Citadel",
     "type": "shade",
@@ -630,6 +700,7 @@
     "hsl": [ 26, 76, 41 ]
   },
   {
+    "id": "citadel_shade_kroak-green",
     "name": "Kroak Green",
     "range": "Citadel",
     "type": "shade",
@@ -639,6 +710,7 @@
     "hsl": [ 136, 29, 69 ]
   },
   {
+    "id": "citadel_shade_mortarion-grime",
     "name": "Mortarion Grime",
     "range": "Citadel",
     "type": "shade",
@@ -648,6 +720,7 @@
     "hsl": [ 56, 47, 53 ]
   },
   {
+    "id": "citadel_shade_nuln-oil",
     "name": "Nuln Oil",
     "range": "Citadel",
     "type": "shade",
@@ -657,6 +730,7 @@
     "hsl": [ 0, 0, 0 ]
   },
   {
+    "id": "citadel_shade_nuln-oil-gloss",
     "name": "Nuln Oil Gloss",
     "range": "Citadel",
     "type": "shade",
@@ -666,6 +740,7 @@
     "hsl": [ 0, 0, 0 ]
   },
   {
+    "id": "citadel_shade_poxwalker",
     "name": "Poxwalker",
     "range": "Citadel",
     "type": "shade",
@@ -675,6 +750,7 @@
     "hsl": [ 181, 21, 60 ]
   },
   {
+    "id": "citadel_shade_reikland-fleshshade",
     "name": "Reikland Fleshshade",
     "range": "Citadel",
     "type": "shade",
@@ -684,6 +760,7 @@
     "hsl": [ 10, 90, 36 ]
   },
   {
+    "id": "citadel_shade_reikland-fleshshade-gloss",
     "name": "Reikland Fleshshade Gloss",
     "range": "Citadel",
     "type": "shade",
@@ -693,6 +770,7 @@
     "hsl": [ 10, 90, 36 ]
   },
   {
+    "id": "citadel_shade_seraphim-sepia",
     "name": "Seraphim Sepia",
     "range": "Citadel",
     "type": "shade",
@@ -702,6 +780,7 @@
     "hsl": [ 26, 75, 46 ]
   },
   {
+    "id": "citadel_shade_soulblight-grey",
     "name": "Soulblight Grey",
     "range": "Citadel",
     "type": "shade",
@@ -711,6 +790,7 @@
     "hsl": [ 336, 3, 70 ]
   },
   {
+    "id": "citadel_shade_targor-rageshade",
     "name": "Targor Rageshade",
     "range": "Citadel",
     "type": "shade",
@@ -720,6 +800,7 @@
     "hsl": [ 293, 7, 46 ]
   },
   {
+    "id": "citadel_shade_tyran-blue",
     "name": "Tyran Blue",
     "range": "Citadel",
     "type": "shade",
@@ -729,6 +810,7 @@
     "hsl": [ 202, 57, 55 ]
   },
   {
+    "id": "citadel_layer_administratum-grey",
     "name": "Administratum Grey",
     "range": "Citadel",
     "type": "layer",
@@ -738,6 +820,7 @@
     "hsl": [ 86, 4, 61 ]
   },
   {
+    "id": "citadel_layer_ahriman-blue",
     "name": "Ahriman Blue",
     "range": "Citadel",
     "type": "layer",
@@ -747,6 +830,7 @@
     "hsl": [ 188, 100, 28 ]
   },
   {
+    "id": "citadel_layer_alaitoc-blue",
     "name": "Alaitoc Blue",
     "range": "Citadel",
     "type": "layer",
@@ -756,6 +840,7 @@
     "hsl": [ 214, 48, 36 ]
   },
   {
+    "id": "citadel_layer_altdorf-guard-blue",
     "name": "Altdorf Guard Blue",
     "range": "Citadel",
     "type": "layer",
@@ -765,6 +850,7 @@
     "hsl": [ 222, 57, 39 ]
   },
   {
+    "id": "citadel_layer_auric-armour-gold",
     "name": "Auric Armour Gold",
     "range": "Citadel",
     "type": "layer",
@@ -774,6 +860,7 @@
     "hsl": [ 44, 93, 45 ]
   },
   {
+    "id": "citadel_layer_baharroth-blue",
     "name": "Baharroth Blue",
     "range": "Citadel",
     "type": "layer",
@@ -783,6 +870,7 @@
     "hsl": [ 188, 52, 60 ]
   },
   {
+    "id": "citadel_layer_balor-brown",
     "name": "Balor Brown",
     "range": "Citadel",
     "type": "layer",
@@ -792,6 +880,7 @@
     "hsl": [ 38, 92, 30 ]
   },
   {
+    "id": "citadel_layer_baneblade-brown",
     "name": "Baneblade Brown",
     "range": "Citadel",
     "type": "layer",
@@ -801,6 +890,7 @@
     "hsl": [ 29, 18, 51 ]
   },
   {
+    "id": "citadel_layer_bestigor-flesh",
     "name": "Bestigor Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -810,6 +900,7 @@
     "hsl": [ 27, 62, 58 ]
   },
   {
+    "id": "citadel_layer_bloodreaver-flesh",
     "name": "Bloodreaver Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -819,6 +910,7 @@
     "hsl": [ 3, 23, 38 ]
   },
   {
+    "id": "citadel_layer_blue-horror",
     "name": "Blue Horror",
     "range": "Citadel",
     "type": "layer",
@@ -828,6 +920,7 @@
     "hsl": [ 213, 34, 77 ]
   },
   {
+    "id": "citadel_layer_brass-scorpion",
     "name": "Brass Scorpion",
     "range": "Citadel",
     "type": "layer",
@@ -837,6 +930,7 @@
     "hsl": [ 31, 88, 30 ]
   },
   {
+    "id": "citadel_layer_cadian-fleshtone",
     "name": "Cadian Fleshtone",
     "range": "Citadel",
     "type": "layer",
@@ -846,6 +940,7 @@
     "hsl": [ 19, 54, 56 ]
   },
   {
+    "id": "citadel_layer_calgar-blue",
     "name": "Calgar Blue",
     "range": "Citadel",
     "type": "layer",
@@ -855,6 +950,7 @@
     "hsl": [ 218, 45, 49 ]
   },
   {
+    "id": "citadel_layer_canoptek-alloy",
     "name": "Canoptek Alloy",
     "range": "Citadel",
     "type": "layer",
@@ -864,6 +960,7 @@
     "hsl": [ 12, 15, 61 ]
   },
   {
+    "id": "citadel_layer_castellax-bronze",
     "name": "Castellax Bronze",
     "range": "Citadel",
     "type": "layer",
@@ -873,6 +970,7 @@
     "hsl": [ 3, 23, 38 ]
   },
   {
+    "id": "citadel_layer_dark-reaper",
     "name": "Dark Reaper",
     "range": "Citadel",
     "type": "layer",
@@ -882,6 +980,7 @@
     "hsl": [ 174, 13, 30 ]
   },
   {
+    "id": "citadel_layer_dawnstone",
     "name": "Dawnstone",
     "range": "Citadel",
     "type": "layer",
@@ -891,6 +990,7 @@
     "hsl": [ 80, 4, 47 ]
   },
   {
+    "id": "citadel_layer_deathclaw-brown",
     "name": "Deathclaw Brown",
     "range": "Citadel",
     "type": "layer",
@@ -900,6 +1000,7 @@
     "hsl": [ 14, 42, 52 ]
   },
   {
+    "id": "citadel_layer_dechala-lilac",
     "name": "Dechala Lilac",
     "range": "Citadel",
     "type": "layer",
@@ -909,6 +1010,7 @@
     "hsl": [ 276, 30, 74 ]
   },
   {
+    "id": "citadel_layer_deepkin-flesh",
     "name": "Deepkin Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -918,6 +1020,7 @@
     "hsl": [ 60, 15, 85 ]
   },
   {
+    "id": "citadel_layer_doombull-brown",
     "name": "Doombull Brown",
     "range": "Citadel",
     "type": "layer",
@@ -927,6 +1030,7 @@
     "hsl": [ 1, 81, 20 ]
   },
   {
+    "id": "citadel_layer_dorn-yellow",
     "name": "Dorn Yellow",
     "range": "Citadel",
     "type": "layer",
@@ -936,6 +1040,7 @@
     "hsl": [ 55, 100, 66 ]
   },
   {
+    "id": "citadel_layer_elysian-green",
     "name": "Elysian Green",
     "range": "Citadel",
     "type": "layer",
@@ -945,6 +1050,7 @@
     "hsl": [ 71, 52, 38 ]
   },
   {
+    "id": "citadel_layer_emperors-children",
     "name": "Emperor's Children",
     "range": "Citadel",
     "type": "layer",
@@ -954,6 +1060,7 @@
     "hsl": [ 335, 49, 50 ]
   },
   {
+    "id": "citadel_layer_eshin-grey",
     "name": "Eshin Grey",
     "range": "Citadel",
     "type": "layer",
@@ -963,6 +1070,7 @@
     "hsl": [ 210, 2, 34 ]
   },
   {
+    "id": "citadel_layer_evil-sunz-scarlet",
     "name": "Evil Sunz Scarlet",
     "range": "Citadel",
     "type": "layer",
@@ -972,6 +1080,7 @@
     "hsl": [ 0, 84, 41 ]
   },
   {
+    "id": "citadel_layer_fenrisian-grey",
     "name": "Fenrisian Grey",
     "range": "Citadel",
     "type": "layer",
@@ -981,6 +1090,7 @@
     "hsl": [ 207, 33, 60 ]
   },
   {
+    "id": "citadel_layer_fire-dragon-bright",
     "name": "Fire Dragon Bright",
     "range": "Citadel",
     "type": "layer",
@@ -990,6 +1100,7 @@
     "hsl": [ 21, 85, 62 ]
   },
   {
+    "id": "citadel_layer_flash-gitz-yellow",
     "name": "Flash Gitz Yellow",
     "range": "Citadel",
     "type": "layer",
@@ -999,6 +1110,7 @@
     "hsl": [ 56, 100, 50 ]
   },
   {
+    "id": "citadel_layer_flayed-one-flesh",
     "name": "Flayed One Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -1008,6 +1120,7 @@
     "hsl": [ 35, 68, 72 ]
   },
   {
+    "id": "citadel_layer_fulgrim-pink",
     "name": "Fulgrim Pink",
     "range": "Citadel",
     "type": "layer",
@@ -1017,6 +1130,7 @@
     "hsl": [ 332, 73, 84 ]
   },
   {
+    "id": "citadel_layer_fulgurite-copper",
     "name": "Fulgurite Copper",
     "range": "Citadel",
     "type": "layer",
@@ -1026,6 +1140,7 @@
     "hsl": [ 34, 67, 63 ]
   },
   {
+    "id": "citadel_layer_gauss-blaster-green",
     "name": "Gauss Blaster Green",
     "range": "Citadel",
     "type": "layer",
@@ -1035,6 +1150,7 @@
     "hsl": [ 150, 31, 67 ]
   },
   {
+    "id": "citadel_layer_gehennas-gold",
     "name": "Gehenna's Gold",
     "range": "Citadel",
     "type": "layer",
@@ -1044,6 +1160,7 @@
     "hsl": [ 34, 91, 39 ]
   },
   {
+    "id": "citadel_layer_genestealer-purple",
     "name": "Genestealer Purple",
     "range": "Citadel",
     "type": "layer",
@@ -1053,6 +1170,7 @@
     "hsl": [ 268, 28, 50 ]
   },
   {
+    "id": "citadel_layer_gorthor-brown",
     "name": "Gorthor Brown",
     "range": "Citadel",
     "type": "layer",
@@ -1062,6 +1180,7 @@
     "hsl": [ 34, 91, 39 ]
   },
   {
+    "id": "citadel_layer_hashut-copper",
     "name": "Hashut Copper",
     "range": "Citadel",
     "type": "layer",
@@ -1071,6 +1190,7 @@
     "hsl": [ 27, 83, 35 ]
   },
   {
+    "id": "citadel_layer_hoeth-blue",
     "name": "Hoeth Blue",
     "range": "Citadel",
     "type": "layer",
@@ -1080,6 +1200,7 @@
     "hsl": [ 212, 40, 51 ]
   },
   {
+    "id": "citadel_layer_ironbreaker",
     "name": "Ironbreaker",
     "range": "Citadel",
     "type": "layer",
@@ -1089,6 +1210,7 @@
     "hsl": [ 198, 4, 51 ]
   },
   {
+    "id": "citadel_layer_kabalite-green",
     "name": "Kabalite Green",
     "range": "Citadel",
     "type": "layer",
@@ -1098,6 +1220,7 @@
     "hsl": [ 163, 100, 26 ]
   },
   {
+    "id": "citadel_layer_kakophoni-purple",
     "name": "Kakophoni Purple",
     "range": "Citadel",
     "type": "layer",
@@ -1107,6 +1230,7 @@
     "hsl": [ 271, 27, 57 ]
   },
   {
+    "id": "citadel_layer_karak-stone",
     "name": "Karak Stone",
     "range": "Citadel",
     "type": "layer",
@@ -1116,6 +1240,7 @@
     "hsl": [ 38, 42, 58 ]
   },
   {
+    "id": "citadel_layer_kislev-flesh",
     "name": "Kislev Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -1125,6 +1250,7 @@
     "hsl": [ 31, 44, 62 ]
   },
   {
+    "id": "citadel_layer_knight-questor-flesh",
     "name": "Knight-questor Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -1134,6 +1260,7 @@
     "hsl": [ 1, 24, 51 ]
   },
   {
+    "id": "citadel_layer_krieg-khaki",
     "name": "Krieg Khaki",
     "range": "Citadel",
     "type": "layer",
@@ -1143,6 +1270,7 @@
     "hsl": [ 54, 41, 64 ]
   },
   {
+    "id": "citadel_layer_liberator-gold",
     "name": "Liberator Gold",
     "range": "Citadel",
     "type": "layer",
@@ -1152,6 +1280,7 @@
     "hsl": [ 39, 52, 48 ]
   },
   {
+    "id": "citadel_layer_loren-forest",
     "name": "Loren Forest",
     "range": "Citadel",
     "type": "layer",
@@ -1161,6 +1290,7 @@
     "hsl": [ 78, 51, 30 ]
   },
   {
+    "id": "citadel_layer_lothern-blue",
     "name": "Lothern Blue",
     "range": "Citadel",
     "type": "layer",
@@ -1170,6 +1300,7 @@
     "hsl": [ 199, 61, 52 ]
   },
   {
+    "id": "citadel_layer_lugganath-orange",
     "name": "Lugganath Orange",
     "range": "Citadel",
     "type": "layer",
@@ -1179,6 +1310,7 @@
     "hsl": [ 14, 83, 75 ]
   },
   {
+    "id": "citadel_layer_moot-green",
     "name": "Moot Green",
     "range": "Citadel",
     "type": "layer",
@@ -1188,6 +1320,7 @@
     "hsl": [ 101, 57, 42 ]
   },
   {
+    "id": "citadel_layer_nurgling-green",
     "name": "Nurgling Green",
     "range": "Citadel",
     "type": "layer",
@@ -1197,6 +1330,7 @@
     "hsl": [ 76, 26, 50 ]
   },
   {
+    "id": "citadel_layer_ogryn-camo",
     "name": "Ogryn Camo",
     "range": "Citadel",
     "type": "layer",
@@ -1206,6 +1340,7 @@
     "hsl": [ 63, 46, 47 ]
   },
   {
+    "id": "citadel_layer_pallid-wych-flesh",
     "name": "Pallid Wych Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -1215,6 +1350,7 @@
     "hsl": [ 57, 18, 80 ]
   },
   {
+    "id": "citadel_layer_phalanx-yellow",
     "name": "Phalanx Yellow",
     "range": "Citadel",
     "type": "layer",
@@ -1224,6 +1360,7 @@
     "hsl": [ 51, 99, 60 ]
   },
   {
+    "id": "citadel_layer_pink-horror",
     "name": "Pink Horror",
     "range": "Citadel",
     "type": "layer",
@@ -1233,6 +1370,7 @@
     "hsl": [ 335, 50, 39 ]
   },
   {
+    "id": "citadel_layer_runefang-steel",
     "name": "Runefang Steel",
     "range": "Citadel",
     "type": "layer",
@@ -1242,6 +1380,7 @@
     "hsl": [ 203, 10, 69 ]
   },
   {
+    "id": "citadel_layer_runelord-brass",
     "name": "Runelord Brass",
     "range": "Citadel",
     "type": "layer",
@@ -1251,6 +1390,7 @@
     "hsl": [ 33, 15, 65 ]
   },
   {
+    "id": "citadel_layer_russ-grey",
     "name": "Russ Grey",
     "range": "Citadel",
     "type": "layer",
@@ -1260,6 +1400,7 @@
     "hsl": [ 203, 24, 44 ]
   },
   {
+    "id": "citadel_layer_screaming-skull",
     "name": "Screaming Skull",
     "range": "Citadel",
     "type": "layer",
@@ -1269,6 +1410,7 @@
     "hsl": [ 58, 41, 75 ]
   },
   {
+    "id": "citadel_layer_skarsnik-green",
     "name": "Skarsnik Green",
     "range": "Citadel",
     "type": "layer",
@@ -1278,6 +1420,7 @@
     "hsl": [ 130, 20, 47 ]
   },
   {
+    "id": "citadel_layer_skavenblight-dinge",
     "name": "Skavenblight Dinge",
     "range": "Citadel",
     "type": "layer",
@@ -1287,6 +1430,7 @@
     "hsl": [ 28, 10, 28 ]
   },
   {
+    "id": "citadel_layer_skrag-brown",
     "name": "Skrag Brown",
     "range": "Citadel",
     "type": "layer",
@@ -1296,6 +1440,7 @@
     "hsl": [ 29, 91, 30 ]
   },
   {
+    "id": "citadel_layer_skullcrusher-brass",
     "name": "Skullcrusher Brass",
     "range": "Citadel",
     "type": "layer",
@@ -1305,6 +1450,7 @@
     "hsl": [ 35, 78, 61 ]
   },
   {
+    "id": "citadel_layer_slaanesh-grey",
     "name": "Slaanesh Grey",
     "range": "Citadel",
     "type": "layer",
@@ -1314,6 +1460,7 @@
     "hsl": [ 273, 5, 58 ]
   },
   {
+    "id": "citadel_layer_sons-of-horus-green",
     "name": "Sons of Horus Green",
     "range": "Citadel",
     "type": "layer",
@@ -1323,6 +1470,7 @@
     "hsl": [ 192, 86, 22 ]
   },
   {
+    "id": "citadel_layer_sotek-green",
     "name": "Sotek Green",
     "range": "Citadel",
     "type": "layer",
@@ -1332,6 +1480,7 @@
     "hsl": [ 188, 79, 26 ]
   },
   {
+    "id": "citadel_layer_squig-orange",
     "name": "Squig Orange",
     "range": "Citadel",
     "type": "layer",
@@ -1341,6 +1490,7 @@
     "hsl": [ 8, 48, 46 ]
   },
   {
+    "id": "citadel_layer_stormhost-silver",
     "name": "Stormhost Silver",
     "range": "Citadel",
     "type": "layer",
@@ -1350,6 +1500,7 @@
     "hsl": [ 196, 13, 71 ]
   },
   {
+    "id": "citadel_layer_stormvermin-fur",
     "name": "Stormvermin Fur",
     "range": "Citadel",
     "type": "layer",
@@ -1359,6 +1510,7 @@
     "hsl": [ 28, 8, 45 ]
   },
   {
+    "id": "citadel_layer_straken-green",
     "name": "Straken Green",
     "range": "Citadel",
     "type": "layer",
@@ -1368,6 +1520,7 @@
     "hsl": [ 72, 73, 30 ]
   },
   {
+    "id": "citadel_layer_sybarite-green",
     "name": "Sybarite Green",
     "range": "Citadel",
     "type": "layer",
@@ -1377,6 +1530,7 @@
     "hsl": [ 144, 47, 43 ]
   },
   {
+    "id": "citadel_layer_sycorax-bronze",
     "name": "Sycorax Bronze",
     "range": "Citadel",
     "type": "layer",
@@ -1386,6 +1540,7 @@
     "hsl": [ 34, 28, 57 ]
   },
   {
+    "id": "citadel_layer_tallarn-sand",
     "name": "Tallarn Sand",
     "range": "Citadel",
     "type": "layer",
@@ -1395,6 +1550,7 @@
     "hsl": [ 44, 100, 33 ]
   },
   {
+    "id": "citadel_layer_tau-light-ochre",
     "name": "Tau Light Ochre",
     "range": "Citadel",
     "type": "layer",
@@ -1404,6 +1560,7 @@
     "hsl": [ 33, 91, 40 ]
   },
   {
+    "id": "citadel_layer_teclis-blue",
     "name": "Teclis Blue",
     "range": "Citadel",
     "type": "layer",
@@ -1413,6 +1570,7 @@
     "hsl": [ 210, 54, 49 ]
   },
   {
+    "id": "citadel_layer_temple-guard-blue",
     "name": "Temple Guard Blue",
     "range": "Citadel",
     "type": "layer",
@@ -1422,6 +1580,7 @@
     "hsl": [ 173, 46, 41 ]
   },
   {
+    "id": "citadel_layer_thunderhawk-blue",
     "name": "Thunderhawk Blue",
     "range": "Citadel",
     "type": "layer",
@@ -1431,6 +1590,7 @@
     "hsl": [ 187, 27, 37 ]
   },
   {
+    "id": "citadel_layer_troll-slayer-orange",
     "name": "Troll Slayer Orange",
     "range": "Citadel",
     "type": "layer",
@@ -1440,6 +1600,7 @@
     "hsl": [ 20, 84, 52 ]
   },
   {
+    "id": "citadel_layer_tuskgor-fur",
     "name": "Tuskgor Fur",
     "range": "Citadel",
     "type": "layer",
@@ -1449,6 +1610,7 @@
     "hsl": [ 3, 47, 38 ]
   },
   {
+    "id": "citadel_layer_ulthuan-grey",
     "name": "Ulthuan Grey",
     "range": "Citadel",
     "type": "layer",
@@ -1458,6 +1620,7 @@
     "hsl": [ 161, 22, 86 ]
   },
   {
+    "id": "citadel_layer_ungor-flesh",
     "name": "Ungor Flesh",
     "range": "Citadel",
     "type": "layer",
@@ -1467,6 +1630,7 @@
     "hsl": [ 37, 63, 62 ]
   },
   {
+    "id": "citadel_layer_ushabti-bone",
     "name": "Ushabti Bone",
     "range": "Citadel",
     "type": "layer",
@@ -1476,6 +1640,7 @@
     "hsl": [ 57, 37, 64 ]
   },
   {
+    "id": "citadel_layer_vulkan-green",
     "name": "Vulkan Green",
     "range": "Citadel",
     "type": "layer",
@@ -1485,6 +1650,7 @@
     "hsl": [ 134, 19, 23 ]
   },
   {
+    "id": "citadel_layer_warboss-green",
     "name": "Warboss Green",
     "range": "Citadel",
     "type": "layer",
@@ -1494,6 +1660,7 @@
     "hsl": [ 143, 35, 36 ]
   },
   {
+    "id": "citadel_layer_warpfiend-grey",
     "name": "Warpfiend Grey",
     "range": "Citadel",
     "type": "layer",
@@ -1503,6 +1670,7 @@
     "hsl": [ 270, 3, 46 ]
   },
   {
+    "id": "citadel_layer_warpstone-glow",
     "name": "Warpstone Glow",
     "range": "Citadel",
     "type": "layer",
@@ -1512,6 +1680,7 @@
     "hsl": [ 120, 49, 30 ]
   },
   {
+    "id": "citadel_layer_wazdakka-red",
     "name": "Wazdakka Red",
     "range": "Citadel",
     "type": "layer",
@@ -1521,6 +1690,7 @@
     "hsl": [ 5, 91, 29 ]
   },
   {
+    "id": "citadel_layer_white-scar",
     "name": "White Scar",
     "range": "Citadel",
     "type": "layer",
@@ -1530,6 +1700,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_layer_wild-rider-red",
     "name": "Wild Rider Red",
     "range": "Citadel",
     "type": "layer",
@@ -1539,6 +1710,7 @@
     "hsl": [ 3, 81, 49 ]
   },
   {
+    "id": "citadel_layer_word-bearers-red",
     "name": "Word Bearers Red",
     "range": "Citadel",
     "type": "layer",
@@ -1548,6 +1720,7 @@
     "hsl": [ 356, 79, 22 ]
   },
   {
+    "id": "citadel_layer_xereus-purple",
     "name": "Xereus Purple",
     "range": "Citadel",
     "type": "layer",
@@ -1557,6 +1730,7 @@
     "hsl": [ 283, 46, 25 ]
   },
   {
+    "id": "citadel_layer_yriel-yellow",
     "name": "Yriel Yellow",
     "range": "Citadel",
     "type": "layer",
@@ -1566,6 +1740,7 @@
     "hsl": [ 51, 100, 50 ]
   },
   {
+    "id": "citadel_layer_zamesi-desert",
     "name": "Zamesi Desert",
     "range": "Citadel",
     "type": "layer",
@@ -1575,6 +1750,7 @@
     "hsl": [ 43, 94, 45 ]
   },
   {
+    "id": "citadel_dry_astorath-red",
     "name": "Astorath Red",
     "range": "Citadel",
     "type": "dry",
@@ -1584,6 +1760,7 @@
     "hsl": [ 5, 67, 41 ]
   },
   {
+    "id": "citadel_dry_changeling-pink",
     "name": "Changeling Pink",
     "range": "Citadel",
     "type": "dry",
@@ -1593,6 +1770,7 @@
     "hsl": [ 332, 73, 84 ]
   },
   {
+    "id": "citadel_dry_chronus-blue",
     "name": "Chronus Blue",
     "range": "Citadel",
     "type": "dry",
@@ -1602,6 +1780,7 @@
     "hsl": [ 208, 58, 58 ]
   },
   {
+    "id": "citadel_dry_dawnstone",
     "name": "Dawnstone",
     "range": "Citadel",
     "type": "dry",
@@ -1611,6 +1790,7 @@
     "hsl": [ 80, 4, 47 ]
   },
   {
+    "id": "citadel_dry_eldar-flesh",
     "name": "Eldar Flesh",
     "range": "Citadel",
     "type": "dry",
@@ -1620,6 +1800,7 @@
     "hsl": [ 37, 76, 73 ]
   },
   {
+    "id": "citadel_dry_etherium-blue",
     "name": "Etherium Blue",
     "range": "Citadel",
     "type": "dry",
@@ -1629,6 +1810,7 @@
     "hsl": [ 212, 33, 77 ]
   },
   {
+    "id": "citadel_dry_golden-griffon",
     "name": "Golden Griffon",
     "range": "Citadel",
     "type": "dry",
@@ -1638,6 +1820,7 @@
     "hsl": [ 43, 42, 48 ]
   },
   {
+    "id": "citadel_dry_golgfag-brown",
     "name": "Golgfag Brown",
     "range": "Citadel",
     "type": "dry",
@@ -1647,6 +1830,7 @@
     "hsl": [ 21, 54, 39 ]
   },
   {
+    "id": "citadel_dry_hellion-green",
     "name": "Hellion Green",
     "range": "Citadel",
     "type": "dry",
@@ -1656,6 +1840,7 @@
     "hsl": [ 150, 31, 67 ]
   },
   {
+    "id": "citadel_dry_hexos-palesun",
     "name": "Hexos Palesun",
     "range": "Citadel",
     "type": "dry",
@@ -1665,6 +1850,7 @@
     "hsl": [ 55, 100, 66 ]
   },
   {
+    "id": "citadel_dry_hoeth-blue",
     "name": "Hoeth Blue",
     "range": "Citadel",
     "type": "dry",
@@ -1674,6 +1860,7 @@
     "hsl": [ 212, 40, 51 ]
   },
   {
+    "id": "citadel_dry_imrik-blue",
     "name": "Imrik Blue",
     "range": "Citadel",
     "type": "dry",
@@ -1683,6 +1870,7 @@
     "hsl": [ 197, 95, 39 ]
   },
   {
+    "id": "citadel_dry_kindleflame",
     "name": "Kindleflame",
     "range": "Citadel",
     "type": "dry",
@@ -1692,6 +1880,7 @@
     "hsl": [ 14, 83, 75 ]
   },
   {
+    "id": "citadel_dry_longbeard-grey",
     "name": "Longbeard Grey",
     "range": "Citadel",
     "type": "dry",
@@ -1701,6 +1890,7 @@
     "hsl": [ 52, 32, 86 ]
   },
   {
+    "id": "citadel_dry_lucius-lilac",
     "name": "Lucius Lilac",
     "range": "Citadel",
     "type": "dry",
@@ -1710,6 +1900,7 @@
     "hsl": [ 275, 31, 74 ]
   },
   {
+    "id": "citadel_dry_necron-compound",
     "name": "Necron Compound",
     "range": "Citadel",
     "type": "dry",
@@ -1719,6 +1910,7 @@
     "hsl": [ 198, 4, 51 ]
   },
   {
+    "id": "citadel_dry_niblet-green",
     "name": "Niblet Green",
     "range": "Citadel",
     "type": "dry",
@@ -1728,6 +1920,7 @@
     "hsl": [ 97, 57, 35 ]
   },
   {
+    "id": "citadel_dry_nurgling-green",
     "name": "Nurgling Green",
     "range": "Citadel",
     "type": "dry",
@@ -1737,6 +1930,7 @@
     "hsl": [ 76, 26, 50 ]
   },
   {
+    "id": "citadel_dry_praxeti-white",
     "name": "Praxeti White",
     "range": "Citadel",
     "type": "dry",
@@ -1746,6 +1940,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_dry_ryza-rust",
     "name": "Ryza Rust",
     "range": "Citadel",
     "type": "dry",
@@ -1755,6 +1950,7 @@
     "hsl": [ 20, 84, 52 ]
   },
   {
+    "id": "citadel_dry_sigmarite",
     "name": "Sigmarite",
     "range": "Citadel",
     "type": "dry",
@@ -1764,6 +1960,7 @@
     "hsl": [ 39, 61, 60 ]
   },
   {
+    "id": "citadel_dry_skink-blue",
     "name": "Skink Blue",
     "range": "Citadel",
     "type": "dry",
@@ -1773,6 +1970,7 @@
     "hsl": [ 188, 52, 60 ]
   },
   {
+    "id": "citadel_dry_slaanesh-grey",
     "name": "Slaanesh Grey",
     "range": "Citadel",
     "type": "dry",
@@ -1782,6 +1980,7 @@
     "hsl": [ 273, 5, 58 ]
   },
   {
+    "id": "citadel_dry_stormfang",
     "name": "Stormfang",
     "range": "Citadel",
     "type": "dry",
@@ -1791,6 +1990,7 @@
     "hsl": [ 211, 31, 54 ]
   },
   {
+    "id": "citadel_dry_sylvaneth-bark",
     "name": "Sylvaneth Bark",
     "range": "Citadel",
     "type": "dry",
@@ -1800,6 +2000,7 @@
     "hsl": [ 36, 21, 30 ]
   },
   {
+    "id": "citadel_dry_terminatus-stone",
     "name": "Terminatus Stone",
     "range": "Citadel",
     "type": "dry",
@@ -1809,6 +2010,7 @@
     "hsl": [ 43, 49, 67 ]
   },
   {
+    "id": "citadel_dry_thunderhawk-blue",
     "name": "Thunderhawk Blue",
     "range": "Citadel",
     "type": "dry",
@@ -1818,6 +2020,7 @@
     "hsl": [ 187, 27, 37 ]
   },
   {
+    "id": "citadel_dry_tyrant-skull",
     "name": "Tyrant Skull",
     "range": "Citadel",
     "type": "dry",
@@ -1827,6 +2030,7 @@
     "hsl": [ 52, 49, 68 ]
   },
   {
+    "id": "citadel_dry_underhive-ash",
     "name": "Underhive Ash",
     "range": "Citadel",
     "type": "dry",
@@ -1836,6 +2040,7 @@
     "hsl": [ 54, 41, 64 ]
   },
   {
+    "id": "citadel_dry_verminlord-hide",
     "name": "Verminlord Hide",
     "range": "Citadel",
     "type": "dry",
@@ -1845,6 +2050,7 @@
     "hsl": [ 4, 45, 36 ]
   },
   {
+    "id": "citadel_dry_wrack-white",
     "name": "Wrack White",
     "range": "Citadel",
     "type": "dry",
@@ -1854,6 +2060,7 @@
     "hsl": [ 0, 6, 86 ]
   },
   {
+    "id": "citadel_glaze_bloodletter",
     "name": "Bloodletter",
     "range": "Citadel",
     "type": "glaze",
@@ -1863,6 +2070,7 @@
     "hsl": [ 356, 95, 46 ]
   },
   {
+    "id": "citadel_glaze_guilliman-blue",
     "name": "Guilliman Blue",
     "range": "Citadel",
     "type": "glaze",
@@ -1872,6 +2080,7 @@
     "hsl": [ 202, 100, 38 ]
   },
   {
+    "id": "citadel_glaze_lamenters-yellow",
     "name": "Lamenters Yellow",
     "range": "Citadel",
     "type": "glaze",
@@ -1881,6 +2090,7 @@
     "hsl": [ 56, 100, 50 ]
   },
   {
+    "id": "citadel_glaze_waywatcher-green",
     "name": "Waywatcher Green",
     "range": "Citadel",
     "type": "glaze",
@@ -1890,6 +2100,7 @@
     "hsl": [ 114, 53, 44 ]
   },
   {
+    "id": "citadel_technical_ardcoat",
     "name": "Ardcoat",
     "range": "Citadel",
     "type": "technical",
@@ -1899,6 +2110,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_technical_blood-for-the-blood-god",
     "name": "Blood For The Blood God",
     "range": "Citadel",
     "type": "technical",
@@ -1908,6 +2120,7 @@
     "hsl": [ 359, 78, 23 ]
   },
   {
+    "id": "citadel_technical_contrast-medium",
     "name": "Contrast Medium",
     "range": "Citadel",
     "type": "technical",
@@ -1917,6 +2130,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_technical_imperial-primer",
     "name": "Imperial Primer",
     "range": "Citadel",
     "type": "technical",
@@ -1926,6 +2140,7 @@
     "hsl": [ 345, 6, 13 ]
   },
   {
+    "id": "citadel_technical_lahmian-medium",
     "name": "Lahmian Medium",
     "range": "Citadel",
     "type": "technical",
@@ -1935,6 +2150,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_technical_liquid-green-stuff",
     "name": "Liquid Green Stuff",
     "range": "Citadel",
     "type": "technical",
@@ -1944,6 +2160,7 @@
     "hsl": [ 160, 60, 17 ]
   },
   {
+    "id": "citadel_technical_mordant-earth",
     "name": "Mordant Earth",
     "range": "Citadel",
     "type": "technical",
@@ -1953,6 +2170,7 @@
     "hsl": [ 60, 4, 11 ]
   },
   {
+    "id": "citadel_technical_nihilakh-oxide",
     "name": "Nihilakh Oxide",
     "range": "Citadel",
     "type": "technical",
@@ -1962,6 +2180,7 @@
     "hsl": [ 160, 33, 57 ]
   },
   {
+    "id": "citadel_technical_nurgles-rot",
     "name": "Nurgles Rot",
     "range": "Citadel",
     "type": "technical",
@@ -1971,6 +2190,7 @@
     "hsl": [ 49, 66, 39 ]
   },
   {
+    "id": "citadel_technical_soulstone-blue",
     "name": "Soulstone Blue",
     "range": "Citadel",
     "type": "technical",
@@ -1980,6 +2200,7 @@
     "hsl": [ 222, 100, 49 ]
   },
   {
+    "id": "citadel_technical_spiritstone-red",
     "name": "Spiritstone Red",
     "range": "Citadel",
     "type": "technical",
@@ -1989,6 +2210,7 @@
     "hsl": [ 10, 100, 59 ]
   },
   {
+    "id": "citadel_technical_stormshield",
     "name": "Stormshield",
     "range": "Citadel",
     "type": "technical",
@@ -1998,6 +2220,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_technical_tesseract-glow",
     "name": "Tesseract Glow",
     "range": "Citadel",
     "type": "technical",
@@ -2007,6 +2230,7 @@
     "hsl": [ 109, 54, 44 ]
   },
   {
+    "id": "citadel_technical_typhus-corrosion",
     "name": "Typhus Corrosion",
     "range": "Citadel",
     "type": "technical",
@@ -2016,6 +2240,7 @@
     "hsl": [ 39, 23, 22 ]
   },
   {
+    "id": "citadel_technical_waystone-green",
     "name": "Waystone Green",
     "range": "Citadel",
     "type": "technical",
@@ -2025,6 +2250,7 @@
     "hsl": [ 120, 100, 37 ]
   },
   {
+    "id": "citadel_texture_agrellan-badland",
     "name": "Agrellan Badland",
     "range": "Citadel",
     "type": "texture",
@@ -2034,6 +2260,7 @@
     "hsl": [ 28, 15, 49 ]
   },
   {
+    "id": "citadel_texture_agrellan-earth",
     "name": "Agrellan Earth",
     "range": "Citadel",
     "type": "texture",
@@ -2043,6 +2270,7 @@
     "hsl": [ 29, 18, 51 ]
   },
   {
+    "id": "citadel_texture_armageddon-dunes",
     "name": "Armageddon Dunes",
     "range": "Citadel",
     "type": "texture",
@@ -2052,6 +2280,7 @@
     "hsl": [ 48, 93, 43 ]
   },
   {
+    "id": "citadel_texture_armageddon-dust",
     "name": "Armageddon Dust",
     "range": "Citadel",
     "type": "texture",
@@ -2061,6 +2290,7 @@
     "hsl": [ 49, 100, 42 ]
   },
   {
+    "id": "citadel_texture_astrogranite",
     "name": "Astrogranite",
     "range": "Citadel",
     "type": "texture",
@@ -2070,6 +2300,7 @@
     "hsl": [ 60, 0, 47 ]
   },
   {
+    "id": "citadel_texture_astrogranite-debris",
     "name": "Astrogranite Debris",
     "range": "Citadel",
     "type": "texture",
@@ -2079,6 +2310,7 @@
     "hsl": [ 225, 2, 47 ]
   },
   {
+    "id": "citadel_texture_blackfire-earth",
     "name": "Blackfire Earth",
     "range": "Citadel",
     "type": "texture",
@@ -2088,6 +2320,7 @@
     "hsl": [ 26, 80, 37 ]
   },
   {
+    "id": "citadel_texture_lustrian-undergrowth",
     "name": "Lustrian Undergrowth",
     "range": "Citadel",
     "type": "texture",
@@ -2097,6 +2330,7 @@
     "hsl": [ 71, 91, 18 ]
   },
   {
+    "id": "citadel_texture_martian-ironcrust",
     "name": "Martian Ironcrust",
     "range": "Citadel",
     "type": "texture",
@@ -2106,6 +2340,7 @@
     "hsl": [ 11, 42, 44 ]
   },
   {
+    "id": "citadel_texture_martian-ironearth",
     "name": "Martian Ironearth",
     "range": "Citadel",
     "type": "texture",
@@ -2115,6 +2350,7 @@
     "hsl": [ 12, 46, 45 ]
   },
   {
+    "id": "citadel_texture_stirland-battlemire",
     "name": "Stirland Battlemire",
     "range": "Citadel",
     "type": "texture",
@@ -2124,6 +2360,7 @@
     "hsl": [ 35, 100, 14 ]
   },
   {
+    "id": "citadel_texture_stirland-mud",
     "name": "Stirland Mud",
     "range": "Citadel",
     "type": "texture",
@@ -2133,6 +2370,7 @@
     "hsl": [ 38, 100, 15 ]
   },
   {
+    "id": "citadel_texture_valhallan-blizzard",
     "name": "Valhallan Blizzard",
     "range": "Citadel",
     "type": "texture",
@@ -2142,6 +2380,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_air_abaddon-black",
     "name": "Abaddon Black",
     "range": "Citadel",
     "type": "air",
@@ -2151,6 +2390,7 @@
     "hsl": [ 0, 0, 0 ]
   },
   {
+    "id": "citadel_air_administratum-grey",
     "name": "Administratum Grey",
     "range": "Citadel",
     "type": "air",
@@ -2160,6 +2400,7 @@
     "hsl": [ 86, 4, 61 ]
   },
   {
+    "id": "citadel_air_air-caste-thinner",
     "name": "Air Caste Thinner",
     "range": "Citadel",
     "type": "air",
@@ -2169,6 +2410,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_air_angron-red",
     "name": "Angron Red",
     "range": "Citadel",
     "type": "air",
@@ -2178,6 +2420,7 @@
     "hsl": [ 352, 78, 50 ]
   },
   {
+    "id": "citadel_air_averland-sunset",
     "name": "Averland Sunset",
     "range": "Citadel",
     "type": "air",
@@ -2187,6 +2430,7 @@
     "hsl": [ 44, 100, 49 ]
   },
   {
+    "id": "citadel_air_balor-brown",
     "name": "Balor Brown",
     "range": "Citadel",
     "type": "air",
@@ -2196,6 +2440,7 @@
     "hsl": [ 38, 92, 30 ]
   },
   {
+    "id": "citadel_air_balthasar-gold",
     "name": "Balthasar Gold",
     "range": "Citadel",
     "type": "air",
@@ -2205,6 +2450,7 @@
     "hsl": [ 28, 86, 26 ]
   },
   {
+    "id": "citadel_air_baneblade-brown",
     "name": "Baneblade Brown",
     "range": "Citadel",
     "type": "air",
@@ -2214,6 +2460,7 @@
     "hsl": [ 29, 18, 51 ]
   },
   {
+    "id": "citadel_air_caledor-sky",
     "name": "Caledor Sky",
     "range": "Citadel",
     "type": "air",
@@ -2223,6 +2470,7 @@
     "hsl": [ 212, 46, 42 ]
   },
   {
+    "id": "citadel_air_calgar-blue",
     "name": "Calgar Blue",
     "range": "Citadel",
     "type": "air",
@@ -2232,6 +2480,7 @@
     "hsl": [ 218, 45, 49 ]
   },
   {
+    "id": "citadel_air_caliban-green",
     "name": "Caliban Green",
     "range": "Citadel",
     "type": "air",
@@ -2241,6 +2490,7 @@
     "hsl": [ 151, 100, 12 ]
   },
   {
+    "id": "citadel_air_calth-blue",
     "name": "Calth Blue",
     "range": "Citadel",
     "type": "air",
@@ -2250,6 +2500,7 @@
     "hsl": [ 201, 81, 46 ]
   },
   {
+    "id": "citadel_air_castellan-green",
     "name": "Castellan Green",
     "range": "Citadel",
     "type": "air",
@@ -2259,6 +2510,7 @@
     "hsl": [ 85, 39, 21 ]
   },
   {
+    "id": "citadel_air_castellax-bronze",
     "name": "Castellax Bronze",
     "range": "Citadel",
     "type": "air",
@@ -2268,6 +2520,7 @@
     "hsl": [ 3, 23, 38 ]
   },
   {
+    "id": "citadel_air_chemos-purple",
     "name": "Chemos Purple",
     "range": "Citadel",
     "type": "air",
@@ -2277,6 +2530,7 @@
     "hsl": [ 274, 27, 34 ]
   },
   {
+    "id": "citadel_air_citadel-air-cleaner",
     "name": "Citadel Air Cleaner",
     "range": "Citadel",
     "type": "air",
@@ -2286,6 +2540,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_air_corvus-black",
     "name": "Corvus Black",
     "range": "Citadel",
     "type": "air",
@@ -2295,6 +2550,7 @@
     "hsl": [ 60, 4, 11 ]
   },
   {
+    "id": "citadel_air_dawnstone",
     "name": "Dawnstone",
     "range": "Citadel",
     "type": "air",
@@ -2304,6 +2560,7 @@
     "hsl": [ 80, 4, 47 ]
   },
   {
+    "id": "citadel_air_death-korps-drab",
     "name": "Death Korps Drab",
     "range": "Citadel",
     "type": "air",
@@ -2313,6 +2570,7 @@
     "hsl": [ 70, 9, 27 ]
   },
   {
+    "id": "citadel_air_deathclaw-brown",
     "name": "Deathclaw Brown",
     "range": "Citadel",
     "type": "air",
@@ -2322,6 +2580,7 @@
     "hsl": [ 14, 42, 52 ]
   },
   {
+    "id": "citadel_air_deathshroud",
     "name": "Deathshroud",
     "range": "Citadel",
     "type": "air",
@@ -2331,6 +2590,7 @@
     "hsl": [ 60, 2, 18 ]
   },
   {
+    "id": "citadel_air_deathworld-forest",
     "name": "Deathworld Forest",
     "range": "Citadel",
     "type": "air",
@@ -2340,6 +2600,7 @@
     "hsl": [ 65, 42, 30 ]
   },
   {
+    "id": "citadel_air_dryad-bark",
     "name": "Dryad Bark",
     "range": "Citadel",
     "type": "air",
@@ -2349,6 +2610,7 @@
     "hsl": [ 32, 12, 21 ]
   },
   {
+    "id": "citadel_air_eidolon-purple",
     "name": "Eidolon Purple",
     "range": "Citadel",
     "type": "air",
@@ -2358,6 +2620,7 @@
     "hsl": [ 270, 26, 52 ]
   },
   {
+    "id": "citadel_air_elysian-green",
     "name": "Elysian Green",
     "range": "Citadel",
     "type": "air",
@@ -2367,6 +2630,7 @@
     "hsl": [ 71, 52, 38 ]
   },
   {
+    "id": "citadel_air_evil-sunz-scarlet",
     "name": "Evil Sunz Scarlet",
     "range": "Citadel",
     "type": "air",
@@ -2376,6 +2640,7 @@
     "hsl": [ 0, 84, 41 ]
   },
   {
+    "id": "citadel_air_fenrisian-grey",
     "name": "Fenrisian Grey",
     "range": "Citadel",
     "type": "air",
@@ -2385,6 +2650,7 @@
     "hsl": [ 207, 33, 60 ]
   },
   {
+    "id": "citadel_air_flash-gitz-yellow",
     "name": "Flash Gitz Yellow",
     "range": "Citadel",
     "type": "air",
@@ -2394,6 +2660,7 @@
     "hsl": [ 56, 100, 50 ]
   },
   {
+    "id": "citadel_air_gal-vorbak-red",
     "name": "Gal Vorbak Red",
     "range": "Citadel",
     "type": "air",
@@ -2403,6 +2670,7 @@
     "hsl": [ 339, 26, 26 ]
   },
   {
+    "id": "citadel_air_genestealer-purple",
     "name": "Genestealer Purple",
     "range": "Citadel",
     "type": "air",
@@ -2412,6 +2680,7 @@
     "hsl": [ 268, 28, 50 ]
   },
   {
+    "id": "citadel_air_grey-knights-steel",
     "name": "Grey Knights Steel",
     "range": "Citadel",
     "type": "air",
@@ -2421,6 +2690,7 @@
     "hsl": [ 202, 58, 73 ]
   },
   {
+    "id": "citadel_air_iron-hands-steel",
     "name": "Iron Hands Steel",
     "range": "Citadel",
     "type": "air",
@@ -2430,6 +2700,7 @@
     "hsl": [ 206, 3, 57 ]
   },
   {
+    "id": "citadel_air_ironbreaker",
     "name": "Ironbreaker",
     "range": "Citadel",
     "type": "air",
@@ -2439,6 +2710,7 @@
     "hsl": [ 198, 4, 51 ]
   },
   {
+    "id": "citadel_air_kakophoni-purple",
     "name": "Kakophoni Purple",
     "range": "Citadel",
     "type": "air",
@@ -2448,6 +2720,7 @@
     "hsl": [ 271, 27, 57 ]
   },
   {
+    "id": "citadel_air_kantor-blue",
     "name": "Kantor Blue",
     "range": "Citadel",
     "type": "air",
@@ -2457,6 +2730,7 @@
     "hsl": [ 219, 71, 18 ]
   },
   {
+    "id": "citadel_air_karak-stone",
     "name": "Karak Stone",
     "range": "Citadel",
     "type": "air",
@@ -2466,6 +2740,7 @@
     "hsl": [ 38, 42, 58 ]
   },
   {
+    "id": "citadel_air_khorne-red",
     "name": "Khorne Red",
     "range": "Citadel",
     "type": "air",
@@ -2475,6 +2750,7 @@
     "hsl": [ 7, 96, 21 ]
   },
   {
+    "id": "citadel_air_kislev-flesh",
     "name": "Kislev Flesh",
     "range": "Citadel",
     "type": "air",
@@ -2484,6 +2760,7 @@
     "hsl": [ 31, 44, 62 ]
   },
   {
+    "id": "citadel_air_leadbelcher",
     "name": "Leadbelcher",
     "range": "Citadel",
     "type": "air",
@@ -2493,6 +2770,7 @@
     "hsl": [ 185, 8, 29 ]
   },
   {
+    "id": "citadel_air_lothern-blue",
     "name": "Lothern Blue",
     "range": "Citadel",
     "type": "air",
@@ -2502,6 +2780,7 @@
     "hsl": [ 199, 61, 52 ]
   },
   {
+    "id": "citadel_air_lupercal-green",
     "name": "Lupercal Green",
     "range": "Citadel",
     "type": "air",
@@ -2511,6 +2790,7 @@
     "hsl": [ 184, 92, 10 ]
   },
   {
+    "id": "citadel_air_macragge-blue",
     "name": "Macragge Blue",
     "range": "Citadel",
     "type": "air",
@@ -2520,6 +2800,7 @@
     "hsl": [ 219, 66, 29 ]
   },
   {
+    "id": "citadel_air_mechanicus-standard-grey",
     "name": "Mechanicus Standard Grey",
     "range": "Citadel",
     "type": "air",
@@ -2529,6 +2810,7 @@
     "hsl": [ 185, 7, 29 ]
   },
   {
+    "id": "citadel_air_mephiston-red",
     "name": "Mephiston Red",
     "range": "Citadel",
     "type": "air",
@@ -2538,6 +2820,7 @@
     "hsl": [ 3, 87, 33 ]
   },
   {
+    "id": "citadel_air_moot-green",
     "name": "Moot Green",
     "range": "Citadel",
     "type": "air",
@@ -2547,6 +2830,7 @@
     "hsl": [ 101, 57, 42 ]
   },
   {
+    "id": "citadel_air_mortarion-green",
     "name": "Mortarion Green",
     "range": "Citadel",
     "type": "air",
@@ -2556,6 +2840,7 @@
     "hsl": [ 137, 61, 34 ]
   },
   {
+    "id": "citadel_air_mournfang-brown",
     "name": "Mournfang Brown",
     "range": "Citadel",
     "type": "air",
@@ -2565,6 +2850,7 @@
     "hsl": [ 7, 84, 22 ]
   },
   {
+    "id": "citadel_air_night-lords-blue",
     "name": "Night Lords Blue",
     "range": "Citadel",
     "type": "air",
@@ -2574,6 +2860,7 @@
     "hsl": [ 207, 92, 20 ]
   },
   {
+    "id": "citadel_air_nocturne-green",
     "name": "Nocturne Green",
     "range": "Citadel",
     "type": "air",
@@ -2583,6 +2870,7 @@
     "hsl": [ 159, 25, 16 ]
   },
   {
+    "id": "citadel_air_ogryn-camo",
     "name": "Ogryn Camo",
     "range": "Citadel",
     "type": "air",
@@ -2592,6 +2880,7 @@
     "hsl": [ 63, 46, 47 ]
   },
   {
+    "id": "citadel_air_phalanx-yellow",
     "name": "Phalanx Yellow",
     "range": "Citadel",
     "type": "air",
@@ -2601,6 +2890,7 @@
     "hsl": [ 51, 99, 60 ]
   },
   {
+    "id": "citadel_air_phoenician-purple",
     "name": "Phoenician Purple",
     "range": "Citadel",
     "type": "air",
@@ -2610,6 +2900,7 @@
     "hsl": [ 290, 62, 20 ]
   },
   {
+    "id": "citadel_air_pyroclast-orange",
     "name": "Pyroclast Orange",
     "range": "Citadel",
     "type": "air",
@@ -2619,6 +2910,7 @@
     "hsl": [ 24, 80, 59 ]
   },
   {
+    "id": "citadel_air_relictor-gold",
     "name": "Relictor Gold",
     "range": "Citadel",
     "type": "air",
@@ -2628,6 +2920,7 @@
     "hsl": [ 39, 39, 57 ]
   },
   {
+    "id": "citadel_air_runefang-steel",
     "name": "Runefang Steel",
     "range": "Citadel",
     "type": "air",
@@ -2637,6 +2930,7 @@
     "hsl": [ 203, 10, 69 ]
   },
   {
+    "id": "citadel_air_russ-grey",
     "name": "Russ Grey",
     "range": "Citadel",
     "type": "air",
@@ -2646,6 +2940,7 @@
     "hsl": [ 203, 24, 44 ]
   },
   {
+    "id": "citadel_air_sigismund-yellow",
     "name": "Sigismund Yellow",
     "range": "Citadel",
     "type": "air",
@@ -2655,6 +2950,7 @@
     "hsl": [ 57, 81, 62 ]
   },
   {
+    "id": "citadel_air_sons-of-horus-green",
     "name": "Sons of Horus Green",
     "range": "Citadel",
     "type": "air",
@@ -2664,6 +2960,7 @@
     "hsl": [ 192, 86, 22 ]
   },
   {
+    "id": "citadel_air_steel-legion-drab",
     "name": "Steel Legion Drab",
     "range": "Citadel",
     "type": "air",
@@ -2673,6 +2970,7 @@
     "hsl": [ 41, 34, 30 ]
   },
   {
+    "id": "citadel_air_straken-green",
     "name": "Straken Green",
     "range": "Citadel",
     "type": "air",
@@ -2682,6 +2980,7 @@
     "hsl": [ 72, 73, 30 ]
   },
   {
+    "id": "citadel_air_sybarite-green",
     "name": "Sybarite Green",
     "range": "Citadel",
     "type": "air",
@@ -2691,6 +2990,7 @@
     "hsl": [ 144, 47, 43 ]
   },
   {
+    "id": "citadel_air_tallarn-sand",
     "name": "Tallarn Sand",
     "range": "Citadel",
     "type": "air",
@@ -2700,6 +3000,7 @@
     "hsl": [ 44, 100, 33 ]
   },
   {
+    "id": "citadel_air_tau-light-ochre",
     "name": "Tau Light Ochre",
     "range": "Citadel",
     "type": "air",
@@ -2709,6 +3010,7 @@
     "hsl": [ 33, 91, 40 ]
   },
   {
+    "id": "citadel_air_temple-guard-blue",
     "name": "Temple Guard Blue",
     "range": "Citadel",
     "type": "air",
@@ -2718,6 +3020,7 @@
     "hsl": [ 173, 46, 41 ]
   },
   {
+    "id": "citadel_air_terminatus-stone",
     "name": "Terminatus Stone",
     "range": "Citadel",
     "type": "air",
@@ -2727,6 +3030,7 @@
     "hsl": [ 43, 49, 67 ]
   },
   {
+    "id": "citadel_air_thallax-gold",
     "name": "Thallax Gold",
     "range": "Citadel",
     "type": "air",
@@ -2736,6 +3040,7 @@
     "hsl": [ 17, 60, 44 ]
   },
   {
+    "id": "citadel_air_the-fang",
     "name": "The Fang",
     "range": "Citadel",
     "type": "air",
@@ -2745,6 +3050,7 @@
     "hsl": [ 206, 25, 39 ]
   },
   {
+    "id": "citadel_air_troll-slayer-orange",
     "name": "Troll Slayer Orange",
     "range": "Citadel",
     "type": "air",
@@ -2754,6 +3060,7 @@
     "hsl": [ 20, 84, 52 ]
   },
   {
+    "id": "citadel_air_tuskgor-fur",
     "name": "Tuskgor Fur",
     "range": "Citadel",
     "type": "air",
@@ -2763,6 +3070,7 @@
     "hsl": [ 3, 47, 38 ]
   },
   {
+    "id": "citadel_air_typhon-ash",
     "name": "Typhon Ash",
     "range": "Citadel",
     "type": "air",
@@ -2772,6 +3080,7 @@
     "hsl": [ 42, 39, 86 ]
   },
   {
+    "id": "citadel_air_ulthuan-grey",
     "name": "Ulthuan Grey",
     "range": "Citadel",
     "type": "air",
@@ -2781,6 +3090,7 @@
     "hsl": [ 161, 22, 86 ]
   },
   {
+    "id": "citadel_air_ushabti-bone",
     "name": "Ushabti Bone",
     "range": "Citadel",
     "type": "air",
@@ -2790,6 +3100,7 @@
     "hsl": [ 57, 37, 64 ]
   },
   {
+    "id": "citadel_air_valdor-gold",
     "name": "Valdor Gold",
     "range": "Citadel",
     "type": "air",
@@ -2799,6 +3110,7 @@
     "hsl": [ 29, 17, 49 ]
   },
   {
+    "id": "citadel_air_vulkan-green",
     "name": "Vulkan Green",
     "range": "Citadel",
     "type": "air",
@@ -2808,6 +3120,7 @@
     "hsl": [ 134, 19, 23 ]
   },
   {
+    "id": "citadel_air_warboss-green",
     "name": "Warboss Green",
     "range": "Citadel",
     "type": "air",
@@ -2817,6 +3130,7 @@
     "hsl": [ 143, 35, 36 ]
   },
   {
+    "id": "citadel_air_white-scar",
     "name": "White Scar",
     "range": "Citadel",
     "type": "air",
@@ -2826,6 +3140,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_air_word-bearers-red",
     "name": "Word Bearers Red",
     "range": "Citadel",
     "type": "air",
@@ -2835,6 +3150,7 @@
     "hsl": [ 356, 79, 22 ]
   },
   {
+    "id": "citadel_air_xv-88",
     "name": "XV-88",
     "range": "Citadel",
     "type": "air",
@@ -2844,6 +3160,7 @@
     "hsl": [ 32, 63, 29 ]
   },
   {
+    "id": "citadel_air_zandri-dust",
     "name": "Zandri Dust",
     "range": "Citadel",
     "type": "air",
@@ -2853,6 +3170,7 @@
     "hsl": [ 47, 32, 50 ]
   },
   {
+    "id": "citadel_spray_averland-sunset",
     "name": "Averland Sunset",
     "range": "Citadel",
     "type": "spray",
@@ -2862,6 +3180,7 @@
     "hsl": [ 44, 100, 49 ]
   },
   {
+    "id": "citadel_spray_caliban-green",
     "name": "Caliban Green",
     "range": "Citadel",
     "type": "spray",
@@ -2871,6 +3190,7 @@
     "hsl": [ 151, 100, 12 ]
   },
   {
+    "id": "citadel_spray_chaos-black",
     "name": "Chaos Black",
     "range": "Citadel",
     "type": "spray",
@@ -2880,6 +3200,7 @@
     "hsl": [ 0, 0, 0 ]
   },
   {
+    "id": "citadel_spray_corax-white",
     "name": "Corax White",
     "range": "Citadel",
     "type": "spray",
@@ -2889,6 +3210,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_spray_death-guard-green",
     "name": "Death Guard Green",
     "range": "Citadel",
     "type": "spray",
@@ -2898,6 +3220,7 @@
     "hsl": [ 70, 20, 40 ]
   },
   {
+    "id": "citadel_spray_grey-seer",
     "name": "Grey Seer",
     "range": "Citadel",
     "type": "spray",
@@ -2907,6 +3230,7 @@
     "hsl": [ 0, 0, 78 ]
   },
   {
+    "id": "citadel_spray_leadbelcher",
     "name": "Leadbelcher",
     "range": "Citadel",
     "type": "spray",
@@ -2916,6 +3240,7 @@
     "hsl": [ 185, 8, 29 ]
   },
   {
+    "id": "citadel_spray_macragge-blue",
     "name": "Macragge Blue",
     "range": "Citadel",
     "type": "spray",
@@ -2925,6 +3250,7 @@
     "hsl": [ 219, 66, 29 ]
   },
   {
+    "id": "citadel_spray_mechanicus-standard-grey",
     "name": "Mechanicus Standard Grey",
     "range": "Citadel",
     "type": "spray",
@@ -2934,6 +3260,7 @@
     "hsl": [ 185, 7, 29 ]
   },
   {
+    "id": "citadel_spray_mephiston-red",
     "name": "Mephiston Red",
     "range": "Citadel",
     "type": "spray",
@@ -2943,6 +3270,7 @@
     "hsl": [ 3, 87, 33 ]
   },
   {
+    "id": "citadel_spray_mournfang-brown",
     "name": "Mournfang Brown",
     "range": "Citadel",
     "type": "spray",
@@ -2952,6 +3280,7 @@
     "hsl": [ 7, 84, 22 ]
   },
   {
+    "id": "citadel_spray_munitorum-varnish",
     "name": "Munitorum Varnish",
     "range": "Citadel",
     "type": "spray",
@@ -2961,6 +3290,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_spray_purity-seal",
     "name": "Purity Seal",
     "range": "Citadel",
     "type": "spray",
@@ -2970,6 +3300,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_spray_retributor-armour",
     "name": "Retributor Armour",
     "range": "Citadel",
     "type": "spray",
@@ -2979,6 +3310,7 @@
     "hsl": [ 40, 73, 46 ]
   },
   {
+    "id": "citadel_spray_runelord-brass",
     "name": "Runelord Brass",
     "range": "Citadel",
     "type": "spray",
@@ -2988,6 +3320,7 @@
     "hsl": [ 30, 25, 24 ]
   },
   {
+    "id": "citadel_spray_stormvermin-fur",
     "name": "Stormvermin Fur",
     "range": "Citadel",
     "type": "spray",
@@ -2997,6 +3330,7 @@
     "hsl": [ 28, 8, 45 ]
   },
   {
+    "id": "citadel_spray_the-fang",
     "name": "The Fang",
     "range": "Citadel",
     "type": "spray",
@@ -3006,6 +3340,7 @@
     "hsl": [ 206, 25, 39 ]
   },
   {
+    "id": "citadel_spray_white-scar",
     "name": "White Scar",
     "range": "Citadel",
     "type": "spray",
@@ -3015,6 +3350,7 @@
     "hsl": [ 0, 0, 100 ]
   },
   {
+    "id": "citadel_spray_wraithbone",
     "name": "Wraithbone",
     "range": "Citadel",
     "type": "spray",
@@ -3024,6 +3360,7 @@
     "hsl": [ 43, 44, 82 ]
   },
   {
+    "id": "citadel_spray_zandri-dust",
     "name": "Zandri Dust",
     "range": "Citadel",
     "type": "spray",
@@ -3033,6 +3370,7 @@
     "hsl": [ 47, 32, 50 ]
   },
   {
+    "id": "citadel_contrast_aeldari-emerald",
     "name": "Aeldari Emerald",
     "range": "Citadel",
     "type": "contrast",
@@ -3042,6 +3380,7 @@
     "hsl": [ 174, 98, 23 ]
   },
   {
+    "id": "citadel_contrast_aethermatic-blue",
     "name": "Aethermatic Blue",
     "range": "Citadel",
     "type": "contrast",
@@ -3051,6 +3390,7 @@
     "hsl": [ 189, 39, 66 ]
   },
   {
+    "id": "citadel_contrast_aggaros-dunes",
     "name": "Aggaros Dunes",
     "range": "Citadel",
     "type": "contrast",
@@ -3060,6 +3400,7 @@
     "hsl": [ 46, 52, 65 ]
   },
   {
+    "id": "citadel_contrast_akhelian-green",
     "name": "Akhelian Green",
     "range": "Citadel",
     "type": "contrast",
@@ -3069,6 +3410,7 @@
     "hsl": [ 193, 80, 35 ]
   },
   {
+    "id": "citadel_contrast_apothecary-white",
     "name": "Apothecary White",
     "range": "Citadel",
     "type": "contrast",
@@ -3078,6 +3420,7 @@
     "hsl": [ 202, 100, 98 ]
   },
   {
+    "id": "citadel_contrast_asurmen-blue",
     "name": "Asurmen Blue",
     "range": "Citadel",
     "type": "contrast",
@@ -3087,6 +3430,7 @@
     "hsl": [ 203, 99, 31 ]
   },
   {
+    "id": "citadel_contrast_baal-red",
     "name": "Baal Red",
     "range": "Citadel",
     "type": "contrast",
@@ -3096,6 +3440,7 @@
     "hsl": [ 356, 77, 45 ]
   },
   {
+    "id": "citadel_contrast_bad-moon-yellow",
     "name": "Bad Moon Yellow",
     "range": "Citadel",
     "type": "contrast",
@@ -3105,6 +3450,7 @@
     "hsl": [ 47, 98, 51 ]
   },
   {
+    "id": "citadel_contrast_basilicanum-grey",
     "name": "Basilicanum Grey",
     "range": "Citadel",
     "type": "contrast",
@@ -3114,6 +3460,7 @@
     "hsl": [ 0, 0, 62 ]
   },
   {
+    "id": "citadel_contrast_black-legion",
     "name": "Black Legion",
     "range": "Citadel",
     "type": "contrast",
@@ -3123,6 +3470,7 @@
     "hsl": [ 0, 2, 22 ]
   },
   {
+    "id": "citadel_contrast_black-templar",
     "name": "Black Templar",
     "range": "Citadel",
     "type": "contrast",
@@ -3132,6 +3480,7 @@
     "hsl": [ 0, 0, 44 ]
   },
   {
+    "id": "citadel_contrast_blood-angels-red",
     "name": "Blood Angels Red",
     "range": "Citadel",
     "type": "contrast",
@@ -3141,6 +3490,7 @@
     "hsl": [ 353, 76, 42 ]
   },
   {
+    "id": "citadel_contrast_briar-queen-chill",
     "name": "Briar Queen Chill",
     "range": "Citadel",
     "type": "contrast",
@@ -3150,6 +3500,7 @@
     "hsl": [ 192, 36, 58 ]
   },
   {
+    "id": "citadel_contrast_celestium-blue",
     "name": "Celestium Blue",
     "range": "Citadel",
     "type": "contrast",
@@ -3159,6 +3510,7 @@
     "hsl": [ 211, 73, 31 ]
   },
   {
+    "id": "citadel_contrast_creed-camo",
     "name": "Creed Camo",
     "range": "Citadel",
     "type": "contrast",
@@ -3168,6 +3520,7 @@
     "hsl": [ 141, 18, 49 ]
   },
   {
+    "id": "citadel_contrast_cygor-brown",
     "name": "Cygor Brown",
     "range": "Citadel",
     "type": "contrast",
@@ -3177,6 +3530,7 @@
     "hsl": [ 3, 23, 38 ]
   },
   {
+    "id": "citadel_contrast_dark-angels-green",
     "name": "Dark Angels Green",
     "range": "Citadel",
     "type": "contrast",
@@ -3186,6 +3540,7 @@
     "hsl": [ 170, 84, 17 ]
   },
   {
+    "id": "citadel_contrast_darkoath-flesh",
     "name": "Darkoath Flesh",
     "range": "Citadel",
     "type": "contrast",
@@ -3195,6 +3550,7 @@
     "hsl": [ 27, 52, 74 ]
   },
   {
+    "id": "citadel_contrast_doomfire-magenta",
     "name": "Doomfire Magenta",
     "range": "Citadel",
     "type": "contrast",
@@ -3204,6 +3560,7 @@
     "hsl": [ 325, 99, 41 ]
   },
   {
+    "id": "citadel_contrast_dreadful-visage",
     "name": "Dreadful Visage",
     "range": "Citadel",
     "type": "contrast",
@@ -3213,6 +3570,7 @@
     "hsl": [ 306, 14, 73 ]
   },
   {
+    "id": "citadel_contrast_flesh-tearers-red",
     "name": "Flesh Tearers Red",
     "range": "Citadel",
     "type": "contrast",
@@ -3222,6 +3580,7 @@
     "hsl": [ 358, 71, 31 ]
   },
   {
+    "id": "citadel_contrast_frostheart",
     "name": "Frostheart",
     "range": "Citadel",
     "type": "contrast",
@@ -3231,6 +3590,7 @@
     "hsl": [ 198, 98, 25 ]
   },
   {
+    "id": "citadel_contrast_fyreslayer-flesh",
     "name": "Fyreslayer Flesh",
     "range": "Citadel",
     "type": "contrast",
@@ -3240,6 +3600,7 @@
     "hsl": [ 8, 38, 59 ]
   },
   {
+    "id": "citadel_contrast_garaghaks-sewer",
     "name": "Garaghak's Sewer",
     "range": "Citadel",
     "type": "contrast",
@@ -3249,6 +3610,7 @@
     "hsl": [ 35, 47, 30 ]
   },
   {
+    "id": "citadel_contrast_gore-grunta-fur",
     "name": "Gore-grunta Fur",
     "range": "Citadel",
     "type": "contrast",
@@ -3258,6 +3620,7 @@
     "hsl": [ 20, 79, 32 ]
   },
   {
+    "id": "citadel_contrast_gryph-charger-grey",
     "name": "Gryph-charger Grey",
     "range": "Citadel",
     "type": "contrast",
@@ -3267,6 +3630,7 @@
     "hsl": [ 202, 41, 77 ]
   },
   {
+    "id": "citadel_contrast_gryph-hound-orange",
     "name": "Gryph-hound Orange",
     "range": "Citadel",
     "type": "contrast",
@@ -3276,6 +3640,7 @@
     "hsl": [ 13, 80, 58 ]
   },
   {
+    "id": "citadel_contrast_guilliman-flesh",
     "name": "Guilliman Flesh",
     "range": "Citadel",
     "type": "contrast",
@@ -3285,6 +3650,7 @@
     "hsl": [ 13, 40, 72 ]
   },
   {
+    "id": "citadel_contrast_gutrippa-flesh",
     "name": "Gutrippa Flesh",
     "range": "Citadel",
     "type": "contrast",
@@ -3294,6 +3660,7 @@
     "hsl": [ 120, 18, 47 ]
   },
   {
+    "id": "citadel_contrast_hexwraith-flame",
     "name": "Hexwraith Flame",
     "range": "Citadel",
     "type": "contrast",
@@ -3303,6 +3670,7 @@
     "hsl": [ 122, 38, 39 ]
   },
   {
+    "id": "citadel_contrast_imperial-fist",
     "name": "Imperial Fist",
     "range": "Citadel",
     "type": "contrast",
@@ -3312,6 +3680,7 @@
     "hsl": [ 40, 97, 54 ]
   },
   {
+    "id": "citadel_contrast_ironjawz-yellow",
     "name": "Ironjawz Yellow",
     "range": "Citadel",
     "type": "contrast",
@@ -3321,6 +3690,7 @@
     "hsl": [ 41, 68, 55 ]
   },
   {
+    "id": "citadel_contrast_iyanden-yellow",
     "name": "Iyanden Yellow",
     "range": "Citadel",
     "type": "contrast",
@@ -3330,6 +3700,7 @@
     "hsl": [ 43, 98, 63 ]
   },
   {
+    "id": "citadel_contrast_karandras-green",
     "name": "Karandras Green",
     "range": "Citadel",
     "type": "contrast",
@@ -3339,6 +3710,7 @@
     "hsl": [ 147, 97, 25 ]
   },
   {
+    "id": "citadel_contrast_kroxigor-scales",
     "name": "Kroxigor Scales",
     "range": "Citadel",
     "type": "contrast",
@@ -3348,6 +3720,7 @@
     "hsl": [ 188, 99, 27 ]
   },
   {
+    "id": "citadel_contrast_leviadon-blue",
     "name": "Leviadon Blue",
     "range": "Citadel",
     "type": "contrast",
@@ -3357,6 +3730,7 @@
     "hsl": [ 207, 92, 19 ]
   },
   {
+    "id": "citadel_contrast_leviathan-purple",
     "name": "Leviathan Purple",
     "range": "Citadel",
     "type": "contrast",
@@ -3366,6 +3740,7 @@
     "hsl": [ 261, 92, 15 ]
   },
   {
+    "id": "citadel_contrast_luxion-purple",
     "name": "Luxion Purple",
     "range": "Citadel",
     "type": "contrast",
@@ -3375,6 +3750,7 @@
     "hsl": [ 270, 80, 21 ]
   },
   {
+    "id": "citadel_contrast_magmadroth-flame",
     "name": "Magmadroth Flame",
     "range": "Citadel",
     "type": "contrast",
@@ -3384,6 +3760,7 @@
     "hsl": [ 15, 75, 52 ]
   },
   {
+    "id": "citadel_contrast_magos-purple",
     "name": "Magos Purple",
     "range": "Citadel",
     "type": "contrast",
@@ -3393,6 +3770,7 @@
     "hsl": [ 295, 17, 73 ]
   },
   {
+    "id": "citadel_contrast_mantis-warriors-green",
     "name": "Mantis Warriors Green",
     "range": "Citadel",
     "type": "contrast",
@@ -3402,6 +3780,7 @@
     "hsl": [ 94, 38, 39 ]
   },
   {
+    "id": "citadel_contrast_militarum-green",
     "name": "Militarum Green",
     "range": "Citadel",
     "type": "contrast",
@@ -3411,6 +3790,7 @@
     "hsl": [ 60, 30, 48 ]
   },
   {
+    "id": "citadel_contrast_nazdreg-yellow",
     "name": "Nazdreg Yellow",
     "range": "Citadel",
     "type": "contrast",
@@ -3420,6 +3800,7 @@
     "hsl": [ 39, 72, 50 ]
   },
   {
+    "id": "citadel_contrast_nighthaunt-gloom",
     "name": "Nighthaunt Gloom",
     "range": "Citadel",
     "type": "contrast",
@@ -3429,6 +3810,7 @@
     "hsl": [ 197, 26, 37 ]
   },
   {
+    "id": "citadel_contrast_ork-flesh",
     "name": "Ork Flesh",
     "range": "Citadel",
     "type": "contrast",
@@ -3438,6 +3820,7 @@
     "hsl": [ 139, 78, 29 ]
   },
   {
+    "id": "citadel_contrast_plaguebearer-flesh",
     "name": "Plaguebearer Flesh",
     "range": "Citadel",
     "type": "contrast",
@@ -3447,6 +3830,7 @@
     "hsl": [ 66, 28, 74 ]
   },
   {
+    "id": "citadel_contrast_pylar-glacier",
     "name": "Pylar Glacier",
     "range": "Citadel",
     "type": "contrast",
@@ -3456,6 +3840,7 @@
     "hsl": [ 199, 77, 56 ]
   },
   {
+    "id": "citadel_contrast_ratling-grime",
     "name": "Ratling Grime",
     "range": "Citadel",
     "type": "contrast",
@@ -3465,6 +3850,7 @@
     "hsl": [ 10, 3, 40 ]
   },
   {
+    "id": "citadel_contrast_shyish-purple",
     "name": "Shyish Purple",
     "range": "Citadel",
     "type": "contrast",
@@ -3474,6 +3860,7 @@
     "hsl": [ 274, 27, 34 ]
   },
   {
+    "id": "citadel_contrast_sigvald-burgundy",
     "name": "Sigvald Burgundy",
     "range": "Citadel",
     "type": "contrast",
@@ -3483,6 +3870,7 @@
     "hsl": [ 318, 98, 21 ]
   },
   {
+    "id": "citadel_contrast_skeleton-horde",
     "name": "Skeleton Horde",
     "range": "Citadel",
     "type": "contrast",
@@ -3492,6 +3880,7 @@
     "hsl": [ 44, 55, 85 ]
   },
   {
+    "id": "citadel_contrast_snakebite-leather",
     "name": "Snakebite Leather",
     "range": "Citadel",
     "type": "contrast",
@@ -3501,6 +3890,7 @@
     "hsl": [ 30, 66, 43 ]
   },
   {
+    "id": "citadel_contrast_space-wolves-grey",
     "name": "Space Wolves Grey",
     "range": "Citadel",
     "type": "contrast",
@@ -3510,6 +3900,7 @@
     "hsl": [ 206, 34, 68 ]
   },
   {
+    "id": "citadel_contrast_stormfiend",
     "name": "Stormfiend",
     "range": "Citadel",
     "type": "contrast",
@@ -3519,6 +3910,7 @@
     "hsl": [ 200, 98, 25 ]
   },
   {
+    "id": "citadel_contrast_striking-scorpion-green",
     "name": "Striking Scorpion Green",
     "range": "Citadel",
     "type": "contrast",
@@ -3528,6 +3920,7 @@
     "hsl": [ 146, 88, 27 ]
   },
   {
+    "id": "citadel_contrast_talassar-blue",
     "name": "Talassar Blue",
     "range": "Citadel",
     "type": "contrast",
@@ -3537,6 +3930,7 @@
     "hsl": [ 203, 82, 42 ]
   },
   {
+    "id": "citadel_contrast_terradon-turquoise",
     "name": "Terradon Turquoise",
     "range": "Citadel",
     "type": "contrast",
@@ -3546,6 +3940,7 @@
     "hsl": [ 189, 77, 37 ]
   },
   {
+    "id": "citadel_contrast_ultramarine-blue",
     "name": "Ultramarine Blue",
     "range": "Citadel",
     "type": "contrast",
@@ -3555,6 +3950,7 @@
     "hsl": [ 210, 53, 35 ]
   },
   {
+    "id": "citadel_contrast_volupus-pink",
     "name": "Volupus Pink",
     "range": "Citadel",
     "type": "contrast",
@@ -3564,6 +3960,7 @@
     "hsl": [ 333, 89, 30 ]
   },
   {
+    "id": "citadel_contrast_warp-lightning",
     "name": "Warp Lightning",
     "range": "Citadel",
     "type": "contrast",
@@ -3573,6 +3970,7 @@
     "hsl": [ 146, 61, 37 ]
   },
   {
+    "id": "citadel_contrast_wyldwood",
     "name": "Wyldwood",
     "range": "Citadel",
     "type": "contrast",
