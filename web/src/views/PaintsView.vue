@@ -68,7 +68,7 @@ const data: Ref<{ paints: Page<Paint> }> = result
     <div class="grid grid-cols-10 grid-rows-[auto/auto] gap-2 mb-4">
         <div class="bg-stone-100 rounded p-3 row-span-1 col-span-10 lg:col-span-4 lg:row-span-2 xl:col-span-2">
           <h2 class="text-base font-semibold text-pink-600 mb-2">Paint Type</h2>
-          <div class="grid grid-cols-4 lg:grid-cols-2 text-sm">
+          <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-2 text-sm">
             <div>
               <input type="checkbox" id="chkTypeAir" value="air" v-model="queryVars.types">
               <label for="chkTypeAir" class="ms-1">Air</label>
@@ -111,7 +111,7 @@ const data: Ref<{ paints: Page<Paint> }> = result
             </div>
           </div>
         </div>
-        <div class="bg-stone-100 rounded p-3 row-span-1 col-span-5 lg:col-span-3 text-sm">
+        <div class="bg-stone-100 rounded p-3 row-span-1 col-span-10 sm:col-span-5 lg:col-span-3 text-sm">
           <h2 class="text-base font-semibold text-pink-600 mb-2">Metallics</h2>
           <div class="flex gap-4 md:gap-8">
             <div>
@@ -129,7 +129,7 @@ const data: Ref<{ paints: Page<Paint> }> = result
           </div>
         </div>
         <div class="hidden lg:block row-span-2 col-span-3 xl:col-span-4"></div>
-        <div class="bg-stone-100 rounded p-3 row-span-1 col-span-5 lg:row-span-1 lg:col-span-3">
+        <div class="bg-stone-100 rounded p-3 row-span-1 col-span-10 sm:col-span-5 lg:row-span-1 lg:col-span-3">
           <h2 class="text-base font-semibold text-pink-600 mb-2">Sort By</h2>
           <select class="text-sm py-1 px-3 w-full" v-model="queryVars.sortBy">
             <option v-for="(value, key) in sortModes" :key="key" :value="value">{{ key }}</option>
