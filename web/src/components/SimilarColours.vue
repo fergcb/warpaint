@@ -19,17 +19,15 @@ interface Paint {
   hex: string
 }
 
-const { result, loading, error, onError } = useQuery<{ paints: { items: Paint[] } }>(gql`
+const { result, loading, error, onError } = useQuery<{ paints: Paint[] }>(gql`
   query($similarTo: SimilarColour) {
-    paints(size: 20, similarTo: $similarTo) {
-      items {
-        id
-        range
-        name
-        type
-        metallic
-        hex
-      }
+    paints(limit: 20, similarTo: $similarTo) {
+      id
+      range
+      name
+      type
+      metallic
+      hex
     }
   }
 `, {
@@ -44,7 +42,7 @@ const { result, loading, error, onError } = useQuery<{ paints: { items: Paint[] 
 onError(console.error)
 
 const paints = computed(() => {
-  return result.value?.paints?.items?.filter(paint => paint.id !== props.id) ?? []
+  return result.value?.paints?.filter(paint => paint.id !== props.id) ?? []
 })
 
 </script>

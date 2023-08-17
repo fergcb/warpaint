@@ -56,21 +56,33 @@ export const typeDefs = `
 
   type Query {
 
-    paints(
+    paint (
+      id: String!
+    ): Paint
+
+    paints (
       name: String,
       range: String,
       type: String,
       types: [String],
       metallic: Boolean,
       similarTo: SimilarColour,
+      sortBy: [Sort],
+      limit: Int = 100,
+      offset: Int = 0
+    ): [Paint]
+
+    paintsPage (
+      name: String,
+      range: String,
+      type: String,
+      types: [String],
+      metallic: Boolean,
+      similarTo: SimilarColour,
+      sortBy: [Sort],
       page: Int = 0,
       size: Int = 100,
-      sortBy: [Sort],
     ): PaintsPage,
-
-    paint(
-      id: String!
-    ): Paint
 
   }
 `;

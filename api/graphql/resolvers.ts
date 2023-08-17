@@ -6,18 +6,25 @@ interface PaintArgs {
   id: string;
 }
 
-interface PaintsPage {
-  items: Paint[];
+interface PaintsBaseArgs {
+  name?: string;
+  range?: string;
+  type?: string;
+  types?: string[];
+  metallic?: boolean;
+  similarTo?: SimilarColour;
+  sortBy?: Array<{ field: SortField; order: SortOrder }>;
+}
+
+type PaintsArgs = PaintsBaseArgs & {
+  limit: number;
+  offset: number;
+};
+
+type PaintsPageArgs = PaintsBaseArgs & {
   page: number;
   size: number;
-  first: number;
-  last: number;
-  itemCount: number;
-  totalCount: number;
-  pageCount: number;
-  hasNext: boolean;
-  hasPrev: boolean;
-}
+};
 
 interface SimilarColour {
   maxDistance: number;
@@ -29,16 +36,17 @@ type Colour = { hex: string } | { rgb: number[] } | { hsl: number[] };
 type SortOrder = "asc" | "desc";
 type SortField = "range" | "type" | "name" | "metallic" | "distance" | "colour";
 
-interface PaintsArgs {
-  name?: string;
-  range?: string;
-  type?: string;
-  types?: string[];
-  metallic?: boolean;
-  similarTo?: SimilarColour;
+interface PaintsPage {
+  items: Paint[];
   page: number;
   size: number;
-  sortBy?: Array<{ field: SortField; order: SortOrder }>;
+  first: number;
+  last: number;
+  itemCount: number;
+  totalCount: number;
+  pageCount: number;
+  hasNext: boolean;
+  hasPrev: boolean;
 }
 
 function eq(a: string, b: string): boolean {
@@ -73,9 +81,7 @@ function isSimilar(paint: Paint, query: SimilarColour): boolean {
     }
     targetRGB = hex2rgb(target.hex);
   } else {
-    throw Error(
-      "You must specify one of 'hex', 'rgb' or 'hsl' in the `similarTo.target` object.",
-    );
+    throw Error("You must specify one of 'hex', 'rgb' or 'hsl' in the `similarTo.target` object.");
   }
 
   const distance = delta(paint.rgb, targetRGB);
@@ -84,47 +90,55 @@ function isSimilar(paint: Paint, query: SimilarColour): boolean {
   return distance < maxDistance;
 }
 
+function resolvePaints(args: PaintsBaseArgs): Paint[] {
+  const sortBy: PaintsBaseArgs["sortBy"] =
+    args.sortBy ??
+    (args.similarTo !== undefined
+      ? [{ field: "distance", order: "asc" }]
+      : [{ field: "name", order: "asc" }]);
+
+  return paints
+    .map((p) => p as Paint)
+    .filter(
+      (paint) =>
+        (args.name === undefined || includes(paint.name, args.name)) &&
+        (args.range === undefined || eq(paint.range, args.range)) &&
+        (args.type === undefined || eq(paint.type, args.type)) &&
+        (args.types === undefined || contains(args.types, paint.type)) &&
+        (args.metallic === undefined || paint.metallic === args.metallic) &&
+        (args.similarTo === undefined || isSimilar(paint as Paint, args.similarTo!))
+    )
+    .toSorted((a, b): number => {
+      for (const { field, order } of sortBy) {
+        const d = order === "asc" ? 1 : -1;
+        if (field === "colour") {
+          for (let i = 0; i < 3; i++) {
+            if (a.hsl[i] > b.hsl[i]) return d;
+            if (a.hsl[i] < b.hsl[i]) return -d;
+          }
+        } else {
+          const ak = a[field as keyof Paint];
+          const bk = b[field as keyof Paint];
+          if (ak! > bk!) return d;
+          if (ak! < bk!) return -d;
+        }
+      }
+
+      return 0;
+    });
+}
+
 export const resolvers = {
   Query: {
     paint: (_: any, { id }: PaintArgs) => {
       return paints.find((paint) => paint.id === id);
     },
-    paints: (_: any, args: PaintsArgs): PaintsPage => {
-      const sortBy: PaintsArgs["sortBy"] = args.sortBy ??
-        (args.similarTo !== undefined
-          ? [{ field: "distance", order: "asc" }]
-          : [{ field: "name", order: "asc" }]);
-
-      const items = paints
-        .map((p) => p as Paint)
-        .filter(
-          (paint) =>
-            (args.name === undefined || includes(paint.name, args.name)) &&
-            (args.range === undefined || eq(paint.range, args.range)) &&
-            (args.type === undefined || eq(paint.type, args.type)) &&
-            (args.types === undefined || contains(args.types, paint.type)) &&
-            (args.metallic === undefined || paint.metallic === args.metallic) &&
-            (args.similarTo === undefined ||
-              isSimilar(paint as Paint, args.similarTo!)),
-        )
-        .toSorted((a, b): number => {
-          for (const { field, order } of sortBy) {
-            const d = order === "asc" ? 1 : -1;
-            if (field === "colour") {
-              for (let i = 0; i < 3; i++) {
-                if (a.hsl[i] > b.hsl[i]) return d;
-                if (a.hsl[i] < b.hsl[i]) return -d;
-              }
-            } else {
-              const ak = a[field as keyof Paint];
-              const bk = b[field as keyof Paint];
-              if (ak! > bk!) return d;
-              if (ak! < bk!) return -d;
-            }
-          }
-
-          return 0;
-        });
+    paints: (_: any, args: PaintsArgs): Paint[] => {
+      const items = resolvePaints(args);
+      return items.slice(args.offset, args.offset + args.limit);
+    },
+    paintsPage: (_: any, args: PaintsPageArgs): PaintsPage => {
+      const items = resolvePaints(args);
 
       const { page, size } = args;
       const totalCount = items.length;
@@ -134,10 +148,7 @@ export const resolvers = {
       const hasNext = page < pageCount - 1;
       const hasPrev = page > 0;
 
-      const pageItems = items.slice(
-        first,
-        last,
-      );
+      const pageItems = items.slice(first, last);
 
       const itemCount = pageItems.length;
 

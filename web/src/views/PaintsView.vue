@@ -4,7 +4,7 @@ import PaintList from '@/components/PaintList.vue'
 import type { Page, Paint } from '@/types';
 import { useQuery } from "@vue/apollo-composable";
 import gql from 'graphql-tag'
-import { type Ref, reactive } from "vue";
+import { type Ref, reactive, computed } from "vue";
 
 const queryVars = reactive({
   page: 0,
@@ -24,9 +24,9 @@ const sortModes = {
   "Type (Descending)": [{ field: 'type', order: 'desc' }],
 }
 
-const { result, loading, error, onError } = useQuery(gql`
+const { result, loading, error, onError } = useQuery<{ paintsPage: Page<Paint> }>(gql`
   query($sortBy: [Sort], $page: Int, $types: [String], $metallic: Boolean) {
-    paints(sortBy: $sortBy, page: $page, types: $types, metallic: $metallic) {
+    paintsPage(sortBy: $sortBy, page: $page, types: $types, metallic: $metallic) {
       page
       pageCount
       totalCount
@@ -50,6 +50,14 @@ onError((e) => {
   console.log(e)
 })
 
+const paints = computed(() => {
+  return result.value?.paintsPage.items
+})
+
+const pageInfo = computed(() => {
+  return result.value?.paintsPage
+})
+
 function nextPage() {
   queryVars.page += 1
 }
@@ -57,8 +65,6 @@ function nextPage() {
 function prevPage() {
   queryVars.page -= 1
 }
-
-const data: Ref<{ paints: Page<Paint> }> = result
   
 </script>
 
@@ -138,29 +144,29 @@ const data: Ref<{ paints: Page<Paint> }> = result
       </div>
     <div v-if="loading">Loading...</div>
     <div v-else-if="error !== null" class="bg-red-100 border border-red-300 rounded-md py-2 px-4 text-red-600">Failed to load data.</div>
-    <div v-else>      
+    <div v-else-if="pageInfo !== undefined && paints !== undefined">      
       <PageControls
-        :page="data.paints.page"
-        :pageCount="data.paints.pageCount"
-        :totalCount="data.paints.totalCount"
-        :first="data.paints.first"
-        :last="data.paints.last"
-        :hasNext="data.paints.hasNext"
-        :hasPrev="data.paints.hasPrev"
+        :page="pageInfo.page"
+        :pageCount="pageInfo.pageCount"
+        :totalCount="pageInfo.totalCount"
+        :first="pageInfo.first"
+        :last="pageInfo.last"
+        :hasNext="pageInfo.hasNext"
+        :hasPrev="pageInfo.hasPrev"
         @prev="prevPage"
         @next="nextPage"
       />
 
-      <PaintList :paints="data.paints.items" />
+      <PaintList :paints="paints" />
       
       <PageControls
-        :page="data.paints.page"
-        :pageCount="data.paints.pageCount"
-        :totalCount="data.paints.totalCount"
-        :first="data.paints.first"
-        :last="data.paints.last"
-        :hasNext="data.paints.hasNext"
-        :hasPrev="data.paints.hasPrev"
+        :page="pageInfo.page"
+        :pageCount="pageInfo.pageCount"
+        :totalCount="pageInfo.totalCount"
+        :first="pageInfo.first"
+        :last="pageInfo.last"
+        :hasNext="pageInfo.hasNext"
+        :hasPrev="pageInfo.hasPrev"
         @prev="prevPage"
         @next="nextPage"
       />
