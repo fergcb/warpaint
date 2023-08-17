@@ -4,8 +4,13 @@ import SimilarColours from '@/components/SimilarColours.vue';
 import { useRoute } from 'vue-router';
 import { useQuery } from "@vue/apollo-composable";
 import gql from 'graphql-tag'
+import { reactive, watch } from 'vue';
 
   const route = useRoute()
+
+  const queryVars = reactive({
+    id: route.params.id
+  });
 
   const { result, loading, error } = useQuery(gql`
     query($id: String!) {
@@ -19,7 +24,11 @@ import gql from 'graphql-tag'
         hsl
       }
     }
-  `, { id: route.params.id })
+  `, queryVars)
+
+  watch(() => route.params.id, async id => {
+    queryVars.id = id
+  })
 </script>
 
 <template>
